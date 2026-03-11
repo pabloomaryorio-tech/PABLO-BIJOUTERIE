@@ -1086,5 +1086,437 @@
     "foto": "https://i.postimg.cc/Z546FG3m/4fdd2a79-2ef1-4524-946f-8814bd50aa48.png",
     "categoria": "ACCESORIOS DE MUJER",
     "suspendido": false
+  },
+  {
+    "id": 1773259896158,
+    "nombre": "COITAX 3 STICH ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/LXjm4bX2/Whats-App-Image-2026-03-09-at-3-25-29-PM.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773259933368,
+    "nombre": "AROS PERLA X 36 GRANDE ",
+    "precio": 8000,
+    "foto": "https://i.postimg.cc/prZxz5zG/Gemini-Generated-Image-hpno2khpno2khpno.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773259963480,
+    "nombre": "AROS PERLA X 36 TAMAÑOS VARIOS",
+    "precio": 7000,
+    "foto": "https://i.postimg.cc/nLDJTPq9/Gemini-Generated-Image-t4fb8lt4fb8lt4fb.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260090592,
+    "nombre": "AROS STRAS X 12 ",
+    "precio": 4000,
+    "foto": "https://i.postimg.cc/0QyhFXwt/Gemini-Generated-Image-ii5ysii5ysii5ysi.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260145328,
+    "nombre": "AROS ACERO PELOTITAS X 12",
+    "precio": 16000,
+    "foto": "https://i.postimg.cc/2yqM8qTd/Gemini-Generated-Image-m4zit4m4zit4m4zi.png",
+    "categoria": "AROS DE ACERO",
+    "suspendido": false
+  },
+  {
+    "id": 1773260195128,
+    "nombre": "AROS GOTITA PLATEADOS Y DORADOS  12",
+    "precio": 13000,
+    "foto": "https://i.postimg.cc/d3zX7qSX/Gemini-Generated-Image-1ycc051ycc051ycc.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260230400,
+    "nombre": "AROS ACERO JITO X 12",
+    "precio": 10000,
+    "foto": "https://i.postimg.cc/ZYgXscKV/Gemini-Generated-Image-zgyws9zgyws9zgyw.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260263287,
+    "nombre": "AROS ACRO MARIPOSA Y CORAZON X 12",
+    "precio": 15000,
+    "foto": "https://i.postimg.cc/htR6ctdk/Gemini-Generated-Image-j9o5mkj9o5mkj9o5.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260295663,
+    "nombre": "AROS ACEROCON DIJES VARIOS X 12 ",
+    "precio": 15000,
+    "foto": "https://i.postimg.cc/fbBrc7rh/Gemini-Generated-Image-6lk5ce6lk5ce6lk5.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260331704,
+    "nombre": "AROS ACERO ARGOLLAS CHICO X 12",
+    "precio": 9000,
+    "foto": "https://i.postimg.cc/tTJm21Kd/Gemini-Generated-Image-487x63487x63487x.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260496975,
+    "nombre": "AROS ARGOLAS ACERO CHICOS X 12 ",
+    "precio": 11000,
+    "foto": "https://i.postimg.cc/y8WjqqfG/Gemini-Generated-Image-laz4wflaz4wflaz4.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260612367,
+    "nombre": "AROS ACERO BOLITAS DE FUEGO X 12 ",
+    "precio": 12000,
+    "foto": "https://i.postimg.cc/d1RmRJ1R/Gemini-Generated-Image-u22h6cu22h6cu22h.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260679750,
+    "nombre": "AROS ACERO STRAS X 36 COLOR ",
+    "precio": 9000,
+    "foto": "https://i.postimg.cc/zv0CMpTX/Gemini-Generated-Image-14bomv14bomv14bo.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260732599,
+    "nombre": "AROS ACERO STRAS X 36 BLANCO ",
+    "precio": 9000,
+    "foto": "https://i.postimg.cc/TYNjJ7R4/Gemini-Generated-Image-rmw6dfrmw6dfrmw6.png",
+    "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1773260774581,
+    "nombre": "PILAS 27A X 5 ",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/HxtXc3vg/Gemini-Generated-Image-lv20swlv20swlv20.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773260800285,
+    "nombre": "PILAS 23A",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/HWBbTZ7m/Gemini-Generated-Image-1i004f1i004f1i00.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773260839767,
+    "nombre": "PILAS AG3 X 10 ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/KvjBjPnp/Gemini-Generated-Image-miojvrmiojvrmioj.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261113421,
+    "nombre": "PILAS AG4 X 10 ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/CKnVxQ1n/Gemini-Generated-Image-1dw24s1dw24s1dw2.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261145502,
+    "nombre": "PILAS X 5 2016",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/VvRxhy7G/Gemini-Generated-Image-stwvytstwvytstwv.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261176790,
+    "nombre": "PILAS X 5 2025",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/qMmfXT6k/Gemini-Generated-Image-wpe3j2wpe3j2wpe3.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261212563,
+    "nombre": "PILAS X 5 2032 ",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/L5NWTtX7/Gemini-Generated-Image-1yqi861yqi861yqi.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261262894,
+    "nombre": "ABANICOS COLORES VARIOS ",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/ydTp1mFq/Gemini-Generated-Image-5qk9cm5qk9cm5qk9.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261310853,
+    "nombre": "PILAS AG10 X 10 ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/NFMDQWsK/Gemini-Generated-Image-tow3notow3notow3-(1).png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261375357,
+    "nombre": "PILAS AG13 X 10 ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/ZY7jwKH7/Gemini-Generated-Image-rz3lhjrz3lhjrz3l.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773261555084,
+    "nombre": "BROCHES MARIPOSA X 12",
+    "precio": 5000,
+    "foto": "https://i.postimg.cc/htrr6Lqh/Gemini-Generated-Image-oq4tn9oq4tn9oq4t.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261599654,
+    "nombre": "BROCHE IRROMPBLE FLOR GRANDE ",
+    "precio": 1100,
+    "foto": "https://i.postimg.cc/xCk3XBNQ/Gemini-Generated-Image-ngihddngihddngih.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261639404,
+    "nombre": "BROCHES IRROMPIBLE FLOR MEDIANO ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/76pM0XSg/Gemini-Generated-Image-eok5yfeok5yfeok5.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261669596,
+    "nombre": "BROCHE IRROMPIBLE CORONA GRANDE ",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/fTQfb2zb/Gemini-Generated-Image-xkklslxkklslxkkl.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261724340,
+    "nombre": "BROCHE IRROMPIBLE FLOR EXTRA GRANDE ",
+    "precio": 1600,
+    "foto": "https://i.postimg.cc/sgVPYMG9/Gemini-Generated-Image-e2lxoue2lxoue2lx.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261757012,
+    "nombre": "BROCHE METAL CHICO ",
+    "precio": 400,
+    "foto": "https://i.postimg.cc/KzgtGLCx/Gemini-Generated-Image-gzxlxlgzxlxlgzxl.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773261783429,
+    "nombre": "BROCHE METAL MEDIANO ",
+    "precio": 650,
+    "foto": "https://i.postimg.cc/zvZKVv1H/Gemini-Generated-Image-ocqdz9ocqdz9ocqd.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262280988,
+    "nombre": "BROCHE METAL GRANDE ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/fTXZcLQ7/Gemini-Generated-Image-y0yh5ly0yh5ly0yh.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262321977,
+    "nombre": "UÑAS POSTISAS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/RZLBYDFx/Gemini-Generated-Image-86rs7d86rs7d86rs.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773262369074,
+    "nombre": "UÑAS POSTIZAS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/N0Gcvk9T/Gemini-Generated-Image-lp3i6xlp3i6xlp3i.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773262406561,
+    "nombre": "UÑAS POSTIZAS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/XJmSFM2P/Gemini-Generated-Image-i9iapi9iapi9iapi.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773262451073,
+    "nombre": "UÑAS POSTIZAS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/hvmF1C6z/Gemini-Generated-Image-q7wen0q7wen0q7we.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773262485466,
+    "nombre": "UÑAS POSTIZAS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/Df4KhZ07/Gemini-Generated-Image-wmvrkrwmvrkrwmvr.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773262543690,
+    "nombre": "VINCHA GATITO CON STRASS",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/KvnSKHtQ/Gemini-Generated-Image-u3jn4ku3jn4ku3jn.png",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773262593627,
+    "nombre": "VINCHA DE TULL CON PERLA ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/R0ZjDCyw/Gemini-Generated-Image-mmqvo7mmqvo7mmqv.png",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773262626258,
+    "nombre": "BROCHES ACRILICO MARIPOSAS GRANDE ",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/GpgZwwnW/Gemini-Generated-Image-oj3s0poj3s0poj3s.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262660818,
+    "nombre": "BROCHE NEGRO EXTRA GRANDE ",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/wMLPm1Rx/Gemini-Generated-Image-m52r3xm52r3xm52r.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262715848,
+    "nombre": "BROCHES COLORES EXTRA GRANDE ",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/DfXRDMjD/Gemini-Generated-Image-n0nxeln0nxeln0nx.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262765995,
+    "nombre": "BROCHES COLOR MATE EXTRA GRANDE ",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/L6FGM3G1/Gemini-Generated-Image-gstsv6gstsv6gsts.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773262803994,
+    "nombre": "BROCHES COLORES GRANDE ",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/YqNZ2mw6/Gemini-Generated-Image-739sm7739sm7739s.png",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773263070498,
+    "nombre": "ROSARIO EN CAJITA ",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/wjXqpBW8/Gemini-Generated-Image-czvuhzczvuhzczvu.png",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1773263107449,
+    "nombre": "SET DE BROCHA X 5",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/90w2NX4g/Gemini-Generated-Image-9dxwc29dxwc29dxw.png",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1773263140617,
+    "nombre": "LIMAS PARA UÑASX 12",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/qgfrffyX/Gemini-Generated-Image-gy3100gy3100gy31.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773263186265,
+    "nombre": "VINCHA DETELA COMUN FINA",
+    "precio": 700,
+    "foto": "https://i.postimg.cc/tR8nRYzg/Gemini-Generated-Image-73niee73niee73ni.png",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263215719,
+    "nombre": "VINCHA DE TELA ANCHA ",
+    "precio": 950,
+    "foto": "https://i.postimg.cc/tR8nRYzg/Gemini-Generated-Image-73niee73niee73ni.png",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263252168,
+    "nombre": "COLITA COMUN X 6 GRANDE ",
+    "precio": 500,
+    "foto": "https://i.postimg.cc/MKRMnqsD/Gemini-Generated-Image-dtae1mdtae1mdtae.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263278399,
+    "nombre": "COLITA COMUN X 6 MEDIANA ",
+    "precio": 400,
+    "foto": "https://i.postimg.cc/W1vDrCCk/Gemini-Generated-Image-ctklk3ctklk3ctkl.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263323921,
+    "nombre": "COLITA COMUN X 6 MEDIANA BLANCO Y NEGRO ",
+    "precio": 400,
+    "foto": "https://i.postimg.cc/YSXj5990/Gemini-Generated-Image-o8ussvo8ussvo8us.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263371841,
+    "nombre": "COLITAS COMUN MEDIANA X 6 COLOR ",
+    "precio": 400,
+    "foto": "https://i.postimg.cc/9MrzChRB/Gemini-Generated-Image-sbex5psbex5psbex.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773263419335,
+    "nombre": "COLITAS COMUN CHICAS  X 6  ",
+    "precio": 300,
+    "foto": "https://i.postimg.cc/vBkTmNfP/Gemini-Generated-Image-u51a6ou51a6ou51a.png",
+    "categoria": "COLITAS",
+    "suspendido": false
   }
 ]

@@ -606,5 +606,117 @@
     "foto": "https://i.postimg.cc/x87Qt3JS/Gemini-Generated-Image-e87zbze87zbze87z.png",
     "categoria": "COLITAS",
     "suspendido": false
+  },
+  {
+    "id": 1773252746865,
+    "nombre": "PEINE GRUESO ",
+    "precio": 1900,
+    "foto": "https://i.postimg.cc/6pTXFSVg/Gemini-Generated-Image-bltqzebltqzebltq.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773252797359,
+    "nombre": "COLITA X 2 X 10 OSITO",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/nrLVdL3T/Gemini-Generated-Image-bhbswzbhbswzbhbs.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773252876112,
+    "nombre": "AROS ABRIDORES DE ACERO PLATEADO ",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/prkw6Ymf/Gemini-Generated-Image-bg7bdkbg7bdkbg7b.png",
+    "categoria": "AROS DE ACERO",
+    "suspendido": false
+  },
+  {
+    "id": 1773252910024,
+    "nombre": "PIERCING BULL PLATEADO X 12",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/qBLHq01N/Gemini-Generated-Image-bbnpc5bbnpc5bbnp.png",
+    "categoria": "PIERCING ",
+    "suspendido": false
+  },
+  {
+    "id": 1773252959983,
+    "nombre": "PIERCING DE LENGUA X 12",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/13bL2z3G/Gemini-Generated-Image-agtv8wagtv8wagtv.png",
+    "categoria": "PIERCING ",
+    "suspendido": false
+  },
+  {
+    "id": 1773253007544,
+    "nombre": "CORDON COLGANTE PARA  ANTEOJO X 6",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/SshHQt8N/Gemini-Generated-Image-a11bv7a11bv7a11b.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253046704,
+    "nombre": "COLITA X 2 X 10 STICH ",
+    "precio": 9000,
+    "foto": "https://i.postimg.cc/L5yWT9WX/Gemini-Generated-Image-63vp6m63vp6m63vp.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253122056,
+    "nombre": "COLITA X 3 CON DIJE DE ACRILICO LABUBU ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/66zFwcQC/Gemini-Generated-Image-56vu1a56vu1a56vu.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253162800,
+    "nombre": "COLITA X 3 CON DIJE ACRILICO CAPYBARA ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/fRSPchf3/Gemini-Generated-Image-53ale953ale953al.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253196256,
+    "nombre": "SOMBRA  X 12 ",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/nL8PTw36/Gemini-Generated-Image-39j81a39j81a39j8.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773253231904,
+    "nombre": "COLITA X 2 X 10 CORAZON ",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/43zF0bMH/Gemini-Generated-Image-9ymsis9ymsis9yms.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253265944,
+    "nombre": "SET DE SCUNZI X 2 Y TIC TAC ",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/rspnK6pV/Gemini-Generated-Image-6qk8jd6qk8jd6qk8.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773253328696,
+    "nombre": "SOMBRAS X 10 ",
+    "precio": 5500,
+    "foto": "https://i.postimg.cc/gJz4T98R/Gemini-Generated-Image-5pcqj65pcqj65pcq.png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773253364952,
+    "nombre": "COLITAS X 10 FINAS CON DIJE ",
+    "precio": 4000,
+    "foto": "https://i.postimg.cc/HnjzTQSr/Gemini-Generated-Image-5i7ezj5i7ezj5i7e.png",
+    "categoria": "COLITAS",
+    "suspendido": false
   }
 ]

@@ -156,7 +156,7 @@
     "nombre": "TIC TAC KUROMI X 2 X 9 ",
     "precio": 13500,
     "foto": "https://i.postimg.cc/3RqY4V6g/unnamed-(16).jpg",
-    "categoria": "BROCHES",
+    "categoria": "HEBILLAS TICTAC BLISTER",
     "suspendido": false
   },
   {
@@ -249,8 +249,8 @@
   },
   {
     "id": 1773236210281,
-    "nombre": "BROCHES DE GOMA EXTRA GRANDE ",
-    "precio": 1950,
+    "nombre": "BROCHES ACRILICO MEDIANO ",
+    "precio": 1650,
     "foto": "https://i.postimg.cc/DwfvNrqr/unnamed-(5).jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -298,7 +298,7 @@
   {
     "id": 1773240214437,
     "nombre": "PEINE COMUN ",
-    "precio": 1,
+    "precio": 850,
     "foto": "https://i.postimg.cc/W3FnGYSJ/Gemini-Generated-Image-ri5vwsri5vwsri5v.png",
     "categoria": "BELLEZA ",
     "suspendido": false
@@ -308,7 +308,7 @@
     "nombre": "PEINE GRUESO ",
     "precio": 1650,
     "foto": "https://i.postimg.cc/9X9bzSDM/Gemini-Generated-Image-r4tspbr4tspbr4ts.png",
-    "categoria": "COLITAS",
+    "categoria": "BELLEZA ",
     "suspendido": false
   },
   {
@@ -492,7 +492,7 @@
     "nombre": "SOMBRA 9 COLOLRES ",
     "precio": 5500,
     "foto": "https://i.postimg.cc/N0bx3JgL/Gemini-Generated-Image-n538bhn538bhn538.png",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -564,7 +564,7 @@
     "nombre": "SOMBRA 12 COLORES",
     "precio": 6000,
     "foto": "https://i.postimg.cc/3r9d2st1/Gemini-Generated-Image-j2y6zhj2y6zhj2y6.png",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -594,14 +594,14 @@
   {
     "id": 1773251515150,
     "nombre": "PEINE GRUESO CON MANGO ",
-    "precio": 850,
+    "precio": 1900,
     "foto": "https://i.postimg.cc/sXj3XXCj/Gemini-Generated-Image-eb6ztweb6ztweb6z.png",
     "categoria": "BELLEZA ",
     "suspendido": false
   },
   {
     "id": 1773251551294,
-    "nombre": "COLITA SCUNZI X 2",
+    "nombre": "COLITA SCUNZI ",
     "precio": 1000,
     "foto": "https://i.postimg.cc/x87Qt3JS/Gemini-Generated-Image-e87zbze87zbze87z.png",
     "categoria": "COLITAS",
@@ -684,7 +684,7 @@
     "nombre": "SOMBRA  X 12 ",
     "precio": 6500,
     "foto": "https://i.postimg.cc/nL8PTw36/Gemini-Generated-Image-39j81a39j81a39j8.png",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -708,7 +708,7 @@
     "nombre": "SOMBRAS X 10 ",
     "precio": 5500,
     "foto": "https://i.postimg.cc/gJz4T98R/Gemini-Generated-Image-5pcqj65pcqj65pcq.png",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -717,6 +717,134 @@
     "precio": 4000,
     "foto": "https://i.postimg.cc/HnjzTQSr/Gemini-Generated-Image-5i7ezj5i7ezj5i7e.png",
     "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254329017,
+    "nombre": "DELINEADOR RETRACTIL NEGRO ",
+    "precio": 650,
+    "foto": "https://i.postimg.cc/tTD12wNS/Gemini-Generated-Image-4qrs9q4qrs9q4qrs.png",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1773254361057,
+    "nombre": "SET DE COLITA PICO Y BROCHE STICH ",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/CMPBDyK6/Gemini-Generated-Image-4osnhl4osnhl4osn.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254390089,
+    "nombre": "COLITAS CEREZA X 3 X 10 ",
+    "precio": 16500,
+    "foto": "https://i.postimg.cc/wjJ7S7QP/Gemini-Generated-Image-2ndaid2ndaid2nda.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254458185,
+    "nombre": "SCUNZI X 2 X 10 CLASICO ",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/2573SMJx/Gemini-Generated-Image-2l52q62l52q62l52.png",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254498210,
+    "nombre": "ESMALTES COLORES VARIOS ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/3RrN49Qy/Gemini-Generated-Image-1eqh1q1eqh1q1eqh-(1).png",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773254551377,
+    "nombre": "COLLAR CHOCKER DOBLE CON DIJE ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/NF50bM0z/Gargantilla-negra-elefante-dije.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1773254591561,
+    "nombre": "CORTA CUTICULA ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/fypRPNtM/empuja-cuticula.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773254624761,
+    "nombre": "BOMBILLAS COMUN X 12 ",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/8CNP9w5v/BCO-c2105a85-d93e-434b-ba02-0513dbac551d.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254673537,
+    "nombre": "COLITAS TERMINALES DE TRENCITAS X 12",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/1zB5Q6nd/D-736350-MLA82960483022-032025-C.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254700857,
+    "nombre": "COLITAS X 3 STICH DIJE ACRILICO ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/cH5xKScf/D-719174-MLA75267850515-032024-O.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254764362,
+    "nombre": "BROCHE PESCADITO CHICO ",
+    "precio": 800,
+    "foto": "https://i.postimg.cc/T2F2fT1p/D-653718-MLA96010542920-102025-O.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1773254812923,
+    "nombre": "STRAS PARA CARA  X 12 ",
+    "precio": 6000,
+    "foto": "https://i.postimg.cc/CxHwGDNd/D-604396-MLA105585967760-012026-C.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773254842330,
+    "nombre": "LINTERNA LASER 3 EN 1",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/3wt76Tzv/cos344-1.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1773254878025,
+    "nombre": "ALICATE CORTA UÑA GRANDE ",
+    "precio": 900,
+    "foto": "https://i.postimg.cc/yWCz9Y33/caja-alicate-unas.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773254899474,
+    "nombre": "ALICATE CORTA UÑA CHICO ",
+    "precio": 600,
+    "foto": "https://i.postimg.cc/yWCz9Y33/caja-alicate-unas.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1773254942658,
+    "nombre": "CADENA FANTASIA DORADA CON DIJE ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/BZLLxY1c/CADENAS-DORADA-CON-DIJE.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
     "suspendido": false
   }
 ]

@@ -25,7 +25,7 @@
   },
   {
     "id": 1773234030296,
-    "nombre": "RELOJ DIGITAL MALLA METAL ",
+    "nombre": "RELOJ  MALLA METAL ",
     "precio": 7000,
     "foto": "https://i.postimg.cc/3x11ZTZz/unnamed-(32).jpg",
     "categoria": "RELOJES ",
@@ -802,7 +802,7 @@
   {
     "id": 1773254764362,
     "nombre": "BROCHE PESCADITO CHICO ",
-    "precio": 800,
+    "precio": 850,
     "foto": "https://i.postimg.cc/T2F2fT1p/D-653718-MLA96010542920-102025-O.jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -849,8 +849,8 @@
   },
   {
     "id": 1773255179291,
-    "nombre": "BROCHES PESCADITO CHICO",
-    "precio": 850,
+    "nombre": "BROCHES PESCADITO MEDIANO",
+    "precio": 950,
     "foto": "https://i.postimg.cc/KYhy45g7/615e5015-21ac-4f23-be82-15857b0f2dd4.jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -953,8 +953,8 @@
   },
   {
     "id": 1773256151739,
-    "nombre": "BILLETERA MEDIANA MUJER CO N CIERRE Y TAPA ",
-    "precio": 17000,
+    "nombre": "BILLETERA MEDIANA MUJER CON CIERRE Y TAPA ",
+    "precio": 11000,
     "foto": "https://i.postimg.cc/Yq83v2GY/billetera-mujer-x6.png",
     "categoria": "BILLETERAS MUJER ",
     "suspendido": false
@@ -977,7 +977,7 @@
   },
   {
     "id": 1773256787453,
-    "nombre": "BILLETERA MEDIANA CON PARA Y CIERRE ",
+    "nombre": "BILLETERA MEDIANA CON TAPA Y CIERRE ",
     "precio": 17000,
     "foto": "https://i.postimg.cc/Nfy6j8ts/billetera-mujer-x3.png",
     "categoria": "BILLETERAS MUJER ",
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 1773257384740,
-    "nombre": "PERFORADOR PIERCING ",
+    "nombre": "PIERCING PERFORADOR",
     "precio": 1400,
     "foto": "https://i.postimg.cc/DwTPpJVS/abridor-de-oreja.jpg",
     "categoria": "PIERCING ",

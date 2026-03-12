@@ -4,7 +4,7 @@
     "nombre": "MASCARA PESTAÑA ",
     "precio": 3000,
     "foto": "https://i.postimg.cc/sfJr7BWV/unnamed.jpg",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -60,7 +60,7 @@
     "nombre": "POLVO COMPACTO ",
     "precio": 3000,
     "foto": "https://i.postimg.cc/sDXg2PNq/unnamed-(27).jpg",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -300,7 +300,7 @@
     "nombre": "CORRECTOR DE OJERAS DOBLE LABIAL Y LIQUIDO ",
     "precio": 4500,
     "foto": "https://i.postimg.cc/qB5nG7yr/labial.png",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -404,7 +404,7 @@
     "nombre": "CORRECTOR DE OJERAS ",
     "precio": 3500,
     "foto": "https://i.postimg.cc/VLmg3v5X/unnamed-(1).jpg",
-    "categoria": "BELLEZA ",
+    "categoria": "MAQUILLAJES",
     "suspendido": false
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "id": 1773257347301,
-    "nombre": "AROS DE ACERO X 3 DORADOS ",
+    "nombre": "AROS ACERO X 3 DORADOS ",
     "precio": 1900,
     "foto": "https://i.postimg.cc/F1t7RLbk/aros-dorados.png",
     "categoria": "AROS DE ACERO",
@@ -996,7 +996,7 @@
     "nombre": "AROS ACERO PELOTITAS X 12",
     "precio": 16000,
     "foto": "https://i.postimg.cc/2yqM8qTd/Gemini-Generated-Image-m4zit4m4zit4m4zi.png",
-    "categoria": "AROS DE ACERO",
+    "categoria": "AROS BLISTER",
     "suspendido": false
   },
   {
@@ -1580,7 +1580,7 @@
     "nombre": "PEINE COMUN DE BOLSILLO",
     "precio": 650,
     "foto": "https://i.postimg.cc/qByg0nkt/4efaafbd-cd91-4eaa-9c2f-77baa4474774.jpg",
-    "categoria": "PIERCING ",
+    "categoria": "BELLEZA ",
     "suspendido": false
   },
   {
@@ -1633,7 +1633,7 @@
   },
   {
     "id": 1773285861981,
-    "nombre": "AROS ARGOLLA  ACERO GRANDE DORADOS",
+    "nombre": "AROS ACERO ARGOLLAS GRANDE DORADOS",
     "precio": 1350,
     "foto": "https://i.postimg.cc/vThsTGq3/bfc798e0-3337-4dd0-9b2f-f2f6affa44d2.jpg",
     "categoria": "AROS DE ACERO",
@@ -1713,7 +1713,7 @@
   },
   {
     "id": 1773286448038,
-    "nombre": "BROCHES  IRROMPIBLE CORONA MEDIANO NEGRO ",
+    "nombre": "BROCHES IRROMPIBLE CORONA MEDIANO ",
     "precio": 1100,
     "foto": "https://i.postimg.cc/vZRzT59s/73b33194-fc49-4825-966e-b7f453615ab5.jpg",
     "categoria": "BROCHES",

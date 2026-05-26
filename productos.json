@@ -10,7 +10,7 @@
   {
     "id": 1773233964103,
     "nombre": "RELOJ DIGITAL ",
-    "precio": 7000,
+    "precio": 8000,
     "foto": "https://i.postimg.cc/tJ8tYRpL/unnamed-(33).jpg",
     "categoria": "RELOJES ",
     "suspendido": false
@@ -18,7 +18,7 @@
   {
     "id": 1773234030296,
     "nombre": "RELOJ  MALLA METAL ",
-    "precio": 7000,
+    "precio": 8000,
     "foto": "https://i.postimg.cc/3x11ZTZz/unnamed-(32).jpg",
     "categoria": "RELOJES ",
     "suspendido": false
@@ -45,7 +45,7 @@
     "precio": 1900,
     "foto": "https://i.postimg.cc/1zgFNh7B/unnamed-(30).jpg",
     "categoria": "LLAVEROS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773234334847,
@@ -117,14 +117,6 @@
     "precio": 9000,
     "foto": "https://i.postimg.cc/KvZJ3jPq/unnamed-(19).jpg",
     "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1773235099479,
-    "nombre": "TIC TAC BEBE X 4 X 10 LABUBU",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/JhBqCk8M/unnamed-(17).jpg",
-    "categoria": "HEBILLAS TICTAC BLISTER",
     "suspendido": false
   },
   {
@@ -1018,7 +1010,7 @@
   {
     "id": 1773260839767,
     "nombre": "PILAS AG3 X 10 ",
-    "precio": 1000,
+    "precio": 2000,
     "foto": "https://i.postimg.cc/KvjBjPnp/Gemini-Generated-Image-miojvrmiojvrmioj.png",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1034,7 +1026,7 @@
   {
     "id": 1773261145502,
     "nombre": "PILAS 2016 X 5 ",
-    "precio": 2500,
+    "precio": 3000,
     "foto": "https://i.postimg.cc/VvRxhy7G/Gemini-Generated-Image-stwvytstwvytstwv.png",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1042,7 +1034,7 @@
   {
     "id": 1773261176790,
     "nombre": "PILAS 2025 X 5 ",
-    "precio": 2500,
+    "precio": 3000,
     "foto": "https://i.postimg.cc/qMmfXT6k/Gemini-Generated-Image-wpe3j2wpe3j2wpe3.png",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1050,7 +1042,7 @@
   {
     "id": 1773261212563,
     "nombre": "PILAS 2032 X 5 ",
-    "precio": 2500,
+    "precio": 3000,
     "foto": "https://i.postimg.cc/L5NWTtX7/Gemini-Generated-Image-1yqi861yqi861yqi.png",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1410,7 +1402,7 @@
   {
     "id": 1773285024326,
     "nombre": "INVISIBLE RUBIO X 24 ",
-    "precio": 1,
+    "precio": 500,
     "foto": "https://i.postimg.cc/HkHyFzXH/09ff8dd2-62ce-46ac-8aa6-71c98d2812e6.jpg",
     "categoria": "INVISIBLES",
     "suspendido": false
@@ -1761,7 +1753,7 @@
   },
   {
     "id": 1779810072541,
-    "nombre": "COLITAS LABUBU 2 X 10 DIJE DE ACRILICO ",
+    "nombre": "COLITAS COLOR LABUBU 2 X 10 DIJE DE ACRILICO ",
     "precio": 10500,
     "foto": "https://i.postimg.cc/130tY2GH/08219845-86ef-4e86-9aa7-7d9a7b9056ae.jpg",
     "categoria": "COLITAS",
@@ -1777,7 +1769,7 @@
   },
   {
     "id": 1779810154539,
-    "nombre": "COLITAS FLOR 2 X 10 DIJE ACRILICO ",
+    "nombre": "COLITAS COLOR FLOR 2 X 10 DIJE ACRILICO ",
     "precio": 9500,
     "foto": "https://i.postimg.cc/hGpGKm3X/7ddb34af-34d7-47ba-896e-586af97ecf1e.jpg",
     "categoria": "COLITAS",
@@ -1785,7 +1777,7 @@
   },
   {
     "id": 1779810216525,
-    "nombre": "COLITAS STICH 2 X 10 DIJE ACRILICO ",
+    "nombre": "COLITAS COLOR STICH 2 X 10 DIJE ACRILICO ",
     "precio": 10500,
     "foto": "https://i.postimg.cc/C15x5K3Y/ccc6f82a-4322-42e8-acb2-9c21d84536bb.jpg",
     "categoria": "COLITAS",

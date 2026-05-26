@@ -112,26 +112,10 @@
     "suspendido": false
   },
   {
-    "id": 1773234858576,
-    "nombre": "BROCHES X 3 X 10 NEVADO ",
-    "precio": 9000,
-    "foto": "https://i.postimg.cc/Vs9KNnCk/unnamed-(20).jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
     "id": 1773234909824,
-    "nombre": "BROCHES X 3 X 10 COLOR ",
+    "nombre": "BROCHES X 3 X 10 COLOR LOVE",
     "precio": 9000,
     "foto": "https://i.postimg.cc/KvZJ3jPq/unnamed-(19).jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1773234987936,
-    "nombre": "BROCHES TIC TAC Y PICO X 3 X 10 LABUBU ",
-    "precio": 16000,
-    "foto": "https://i.postimg.cc/Jz0xKFdN/unnamed-(18).jpg",
     "categoria": "BROCHES",
     "suspendido": false
   },
@@ -200,25 +184,17 @@
     "suspendido": false
   },
   {
-    "id": 1773236068137,
-    "nombre": "BROCHES ACRILICO FLOR",
-    "precio": 2100,
-    "foto": "https://i.postimg.cc/FKRKYyzN/unnamed-(9).jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
     "id": 1773236120409,
     "nombre": "BROCHES PLASTICO FLOR ",
     "precio": 800,
     "foto": " https://i.postimg.cc/g0T28xLq/unnamed-(8).jpg",
     "categoria": "BROCHES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773236152321,
-    "nombre": "BROCHES ACRILICO MARIPOSA GRANDES ",
-    "precio": 2400,
+    "nombre": "BROCHES  MARIPOSAS GRANDES ",
+    "precio": 2500,
     "foto": "https://i.postimg.cc/nrvFyTRP/unnamed-(7).jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -226,7 +202,7 @@
   {
     "id": 1773236183874,
     "nombre": "BROCHES ACRILICO MARIPOSA COLOR ",
-    "precio": 1600,
+    "precio": 1650,
     "foto": "https://i.postimg.cc/ncGVTRQt/unnamed-(6).jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -249,7 +225,7 @@
   },
   {
     "id": 1773240119342,
-    "nombre": "PEINE GRUESO ",
+    "nombre": "PEINE GRUESO COMUN",
     "precio": 1900,
     "foto": "https://i.postimg.cc/T3VJQWVP/Gemini-Generated-Image-src5qxsrc5qxsrc5.png",
     "categoria": "BELLEZA ",
@@ -257,7 +233,7 @@
   },
   {
     "id": 1773240214437,
-    "nombre": "PEINE COMUN ",
+    "nombre": "PEINE COMUN CON MANGO",
     "precio": 850,
     "foto": "https://i.postimg.cc/W3FnGYSJ/Gemini-Generated-Image-ri5vwsri5vwsri5v.png",
     "categoria": "BELLEZA ",
@@ -265,7 +241,7 @@
   },
   {
     "id": 1773240242941,
-    "nombre": "PEINE GRUESO ",
+    "nombre": "PEINE GRUESO CURVO",
     "precio": 1650,
     "foto": "https://i.postimg.cc/9X9bzSDM/Gemini-Generated-Image-r4tspbr4tspbr4ts.png",
     "categoria": "BELLEZA ",
@@ -409,7 +385,7 @@
   },
   {
     "id": 1773241763831,
-    "nombre": "COLITAS LABUBU CON DIJE X 3 ",
+    "nombre": "COLITAS X 3 LABUBU DIJE GOMA ",
     "precio": 1000,
     "foto": "https://i.postimg.cc/pTjktnD3/unnamed-(2).jpg",
     "categoria": "COLITAS",
@@ -489,8 +465,8 @@
   },
   {
     "id": 1773251356582,
-    "nombre": "PEINE COMUN ",
-    "precio": 850,
+    "nombre": "PEINE GRUESO COLERO",
+    "precio": 1650,
     "foto": "https://i.postimg.cc/MpfH2vqm/Gemini-Generated-Image-ijdnmuijdnmuijdn.png",
     "categoria": "BELLEZA ",
     "suspendido": false
@@ -513,7 +489,7 @@
   },
   {
     "id": 1773251551294,
-    "nombre": "COLITAS SCUNZI ",
+    "nombre": "SCUNZI COLITA",
     "precio": 1000,
     "foto": "https://i.postimg.cc/x87Qt3JS/Gemini-Generated-Image-e87zbze87zbze87z.png",
     "categoria": "COLITAS",
@@ -521,7 +497,7 @@
   },
   {
     "id": 1773252746865,
-    "nombre": "PEINE GRUESO ",
+    "nombre": "PEINE GRUESO RULOS",
     "precio": 1900,
     "foto": "https://i.postimg.cc/6pTXFSVg/Gemini-Generated-Image-bltqzebltqzebltq.png",
     "categoria": "BELLEZA ",
@@ -529,7 +505,7 @@
   },
   {
     "id": 1773252876112,
-    "nombre": "AROS ABRIDORES DE ACERO PLATEADO ",
+    "nombre": "AROS ABRIDORES DE ACERO PLATEADO CORAZON COLOR",
     "precio": 1750,
     "foto": "https://i.postimg.cc/prkw6Ymf/Gemini-Generated-Image-bg7bdkbg7bdkbg7b.png",
     "categoria": "AROS DE ACERO",
@@ -561,7 +537,7 @@
   },
   {
     "id": 1773253122056,
-    "nombre": "COLITAS X 3 CON DIJE DE ACRILICO LABUBU ",
+    "nombre": "COLITAS X 3 CON DIJE ACRILICO LABUBU ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/66zFwcQC/Gemini-Generated-Image-56vu1a56vu1a56vu.png",
     "categoria": "COLITAS",
@@ -584,14 +560,6 @@
     "suspendido": false
   },
   {
-    "id": 1773253265944,
-    "nombre": "SET DE SCUNZI X 2 Y TIC TAC ",
-    "precio": 1650,
-    "foto": "https://i.postimg.cc/rspnK6pV/Gemini-Generated-Image-6qk8jd6qk8jd6qk8.png",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773253328696,
     "nombre": "SOMBRAS X 10 ",
     "precio": 5500,
@@ -601,7 +569,7 @@
   },
   {
     "id": 1773253364952,
-    "nombre": "COLITAS X 10 FINAS CON DIJE ",
+    "nombre": "TIRA COLITAS X 10 FINAS CON DIJE ",
     "precio": 4000,
     "foto": "https://i.postimg.cc/HnjzTQSr/Gemini-Generated-Image-5i7ezj5i7ezj5i7e.png",
     "categoria": "COLITAS",
@@ -632,32 +600,16 @@
     "suspendido": false
   },
   {
-    "id": 1773254551377,
-    "nombre": "COLLAR CHOCKER DOBLE CON DIJE ",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/NF50bM0z/Gargantilla-negra-elefante-dije.jpg",
-    "categoria": "ACCESORIOS DE MUJER",
-    "suspendido": false
-  },
-  {
     "id": 1773254591561,
     "nombre": "CORTA CUTICULA ",
     "precio": 1800,
     "foto": "https://i.postimg.cc/fypRPNtM/empuja-cuticula.jpg",
     "categoria": "BELLEZA ",
-    "suspendido": false
-  },
-  {
-    "id": 1773254624761,
-    "nombre": "BOMBILLAS COMUN X 12 ",
-    "precio": 4500,
-    "foto": "https://i.postimg.cc/8CNP9w5v/BCO-c2105a85-d93e-434b-ba02-0513dbac551d.png",
-    "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773254673537,
-    "nombre": "COLITAS TERMINALES DE TRENCITAS X 12",
+    "nombre": "TERMINALES DE TRENCITAS COLITAS X 12",
     "precio": 2000,
     "foto": "https://i.postimg.cc/1zB5Q6nd/D-736350-MLA82960483022-032025-C.jpg",
     "categoria": "COLITAS",
@@ -665,7 +617,7 @@
   },
   {
     "id": 1773254700857,
-    "nombre": "COLITAS X 3 STICH DIJE ACRILICO ",
+    "nombre": "COLITAS X 3 STICH CON DIJE ACRILICO ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/cH5xKScf/D-719174-MLA75267850515-032024-O.jpg",
     "categoria": "COLITAS",
@@ -752,14 +704,6 @@
     "suspendido": false
   },
   {
-    "id": 1773255839691,
-    "nombre": "COLLAR PLATEADO Y DORADO X 2 ",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/FH9B6nc2/cadena-dorada-y-plateada-doble.jpg",
-    "categoria": "ACCESORIOS DE MUJER",
-    "suspendido": false
-  },
-  {
     "id": 1773255871275,
     "nombre": "BROCHES MINI X 10 ",
     "precio": 1000,
@@ -785,7 +729,7 @@
   },
   {
     "id": 1773255995419,
-    "nombre": "BILLETERA GRANDE MUJER DOBLE CIERRE ",
+    "nombre": "BILLETERA  MUJER DOBLE CIERRE AMAYRA 2 T",
     "precio": 16500,
     "foto": "https://i.postimg.cc/FKwGhPfB/billetere-mujer-2.png",
     "categoria": "BILLETERAS MUJER ",
@@ -809,7 +753,7 @@
   },
   {
     "id": 1773256093587,
-    "nombre": "BILLETERA GRANDE MUJER DOBLE CIERRE ",
+    "nombre": "BILLETERA MUJER DOBLE CIERRE LEBLU",
     "precio": 16500,
     "foto": "https://i.postimg.cc/MHSDQvm1/billetera-mujer-x8.png",
     "categoria": "BILLETERAS MUJER ",
@@ -824,16 +768,8 @@
     "suspendido": false
   },
   {
-    "id": 1773256151739,
-    "nombre": "BILLETERA MEDIANA MUJER CON CIERRE Y TAPA ",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/Yq83v2GY/billetera-mujer-x6.png",
-    "categoria": "BILLETERAS MUJER ",
-    "suspendido": false
-  },
-  {
     "id": 1773256201219,
-    "nombre": "BILLETERA MUJER GRANDE CON CIERRE SIMPLE ",
+    "nombre": "BILLETERA MUJER CON CIERRE SIMPLE LEBLU",
     "precio": 12000,
     "foto": "https://i.postimg.cc/dV19rMrp/billetera-mujer-x5.png",
     "categoria": "BILLETERAS MUJER ",
@@ -841,23 +777,15 @@
   },
   {
     "id": 1773256242010,
-    "nombre": "BILLETERA GRANDE MUJER CIERRE SIMPLE ",
+    "nombre": "BILLETERA  MUJER CIERRE SIMPLE TRENDY",
     "precio": 11000,
     "foto": "https://i.postimg.cc/YCszxXx1/billetera-mujer-x4.png",
     "categoria": "BILLETERAS MUJER ",
     "suspendido": false
   },
   {
-    "id": 1773256787453,
-    "nombre": "BILLETERA MEDIANA CON TAPA Y CIERRE ",
-    "precio": 17000,
-    "foto": "https://i.postimg.cc/Nfy6j8ts/billetera-mujer-x3.png",
-    "categoria": "BILLETERAS MUJER ",
-    "suspendido": false
-  },
-  {
     "id": 1773256821525,
-    "nombre": "BILLETERA GRANDE MUJER CIERRE SIMPLE ",
+    "nombre": "BILLETERA MUJER CIERRE SIMPLE LEBLU COLOR",
     "precio": 12000,
     "foto": "https://i.postimg.cc/W47rHXGW/billetera-mujer.png",
     "categoria": "BILLETERAS MUJER ",
@@ -873,7 +801,7 @@
   },
   {
     "id": 1773256941436,
-    "nombre": "COLITAS DE COLOR X 2 X 10 DELICIUS ",
+    "nombre": "COLITAS COLOR X 2 X 10 DELICIUS ",
     "precio": 11000,
     "foto": "https://i.postimg.cc/wxrNZtmG/BCO-ed1dfc14-2727-4d23-9496-7ab198fef711.png",
     "categoria": "COLITAS",
@@ -953,7 +881,7 @@
   },
   {
     "id": 1773257508844,
-    "nombre": "COLLAR CHOKER X 12 ",
+    "nombre": "SET DE COLLAR CHOKER X 12 ",
     "precio": 3000,
     "foto": "https://i.postimg.cc/Z546FG3m/4fdd2a79-2ef1-4524-946f-8814bd50aa48.png",
     "categoria": "ACCESORIOS DE MUJER",
@@ -961,7 +889,7 @@
   },
   {
     "id": 1773259896158,
-    "nombre": "COLITAS X 3 CON DIJE STICH ",
+    "nombre": "COLITAS X 3 STICH CON DIJE GOMA ",
     "precio": 1000,
     "foto": "https://i.postimg.cc/LXjm4bX2/Whats-App-Image-2026-03-09-at-3-25-29-PM.jpg",
     "categoria": "COLITAS",
@@ -1162,7 +1090,7 @@
   {
     "id": 1773261599654,
     "nombre": "BROCHES IRROMPIBLE FLOR GRANDE ",
-    "precio": 1100,
+    "precio": 1200,
     "foto": "https://i.postimg.cc/xCk3XBNQ/Gemini-Generated-Image-ngihddngihddngih.png",
     "categoria": "BROCHES",
     "suspendido": false
@@ -1170,7 +1098,7 @@
   {
     "id": 1773261639404,
     "nombre": "BROCHES IRROMPIBLE FLOR MEDIANO ",
-    "precio": 1000,
+    "precio": 1100,
     "foto": "https://i.postimg.cc/76pM0XSg/Gemini-Generated-Image-eok5yfeok5yfeok5.png",
     "categoria": "BROCHES",
     "suspendido": false
@@ -1178,7 +1106,7 @@
   {
     "id": 1773261669596,
     "nombre": "BROCHES IRROMPIBLE CORONA GRANDE ",
-    "precio": 1300,
+    "precio": 1450,
     "foto": "https://i.postimg.cc/fTQfb2zb/Gemini-Generated-Image-xkklslxkklslxkkl.png",
     "categoria": "BROCHES",
     "suspendido": false
@@ -1266,7 +1194,7 @@
   {
     "id": 1773262626258,
     "nombre": "BROCHES ACRILICO MARIPOSAS GRANDE ",
-    "precio": 2400,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/GpgZwwnW/Gemini-Generated-Image-oj3s0poj3s0poj3s.png",
     "categoria": "BROCHES",
     "suspendido": false
@@ -1289,7 +1217,7 @@
   },
   {
     "id": 1773262765995,
-    "nombre": "BROCHES COLOR MATE EXTRA GRANDE ",
+    "nombre": "BROCHES EXTRA GRANDE CURVO MATE",
     "precio": 2100,
     "foto": "https://i.postimg.cc/L6FGM3G1/Gemini-Generated-Image-gstsv6gstsv6gsts.png",
     "categoria": "BROCHES",
@@ -1325,7 +1253,7 @@
     "precio": 1800,
     "foto": "https://i.postimg.cc/qgfrffyX/Gemini-Generated-Image-gy3100gy3100gy31.png",
     "categoria": "BELLEZA ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773263186265,
@@ -1393,81 +1321,25 @@
   },
   {
     "id": 1773283880387,
-    "nombre": "COLITAS STICH X 2 X 10",
-    "precio": 9000,
+    "nombre": "COLITAS COLOR STICH X 2 X 10",
+    "precio": 9500,
     "foto": "https://i.postimg.cc/5yTJcs6h/9b6ed4c8-b73d-422b-8932-01d3fda838ca.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773283975245,
-    "nombre": "COLITAS CORAZON X 2 X 10",
-    "precio": 15000,
-    "foto": "https://i.postimg.cc/3RwQdspQ/cece4f38-28cf-4d04-9868-49fbfe448aa7.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284021878,
-    "nombre": "COLITAS CORAZON Y HUELLA X 2 X 10 ",
-    "precio": 14000,
-    "foto": "https://i.postimg.cc/FsS5dgft/130d3c72-9011-4201-ba1e-df8770293a7e.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284060316,
-    "nombre": "COLITAS X 2 X 10 SMILE ",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/N0pWqdnJ/dc4f09e5-7190-4049-92d0-2eada39eabd6.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
   {
     "id": 1773284103924,
     "nombre": "COLITAS BEBE X 4 X 10 KUROMI ",
-    "precio": 9000,
+    "precio": 9500,
     "foto": "https://i.postimg.cc/3x783bLJ/47ace9d6-699a-404c-b575-0b19c69c6e4d.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
   {
-    "id": 1773284140924,
-    "nombre": "COLITAS COLOR  X 2 X 10 OSITO ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/yxFM57CN/26438d7f-76b1-459a-881d-26b8f9056378.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284230525,
-    "nombre": "COLITAS , TIC TAC Y PICOS SET X 3 X 10 LABUBU ",
-    "precio": 16500,
-    "foto": "https://i.postimg.cc/GhRwDTvv/b8a3a88c-64b3-4cd6-9899-db1c216c7463.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284276974,
-    "nombre": "COLITAS X 2 X 10 LABUBU ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/4x8rj8qb/649c7407-d146-400e-8db9-efae38832f2c.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773284333286,
-    "nombre": "COLITAS OSITO X 2 X 10 ",
+    "nombre": "COLITAS CARITA OSITO X 2 X 10 ",
     "precio": 9500,
     "foto": "https://i.postimg.cc/Qt7w9jt0/7fdbbe0c-22dc-4ffe-bcf5-e537f7b4a36a.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284425812,
-    "nombre": "COLITAS SCUNZI X 2 X 10 ",
-    "precio": 14000,
-    "foto": "https://i.postimg.cc/L4zGm4GZ/4db554f0-5b07-494d-9ca7-c9c98361f1e6.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
@@ -1513,7 +1385,7 @@
   },
   {
     "id": 1773284854208,
-    "nombre": "AROS ABRIDORES ACERO DORADOS",
+    "nombre": "AROS ABRIDORES ACERO DORADOS STRASS",
     "precio": 1850,
     "foto": "https://i.postimg.cc/CL85h8SB/d486afe8-5de7-440f-9ec8-dbe82ddd505b.jpg",
     "categoria": "AROS DE ACERO",
@@ -1593,7 +1465,7 @@
   },
   {
     "id": 1773285597373,
-    "nombre": "AROS ABRIDORES ACERO DORADOS",
+    "nombre": "AROS ABRIDORES ACERO DORADOS PELOTITA",
     "precio": 1750,
     "foto": "https://i.postimg.cc/vTsYDqQB/ab2f7e5f-fa79-418a-b91b-0199c4edeabf.jpg",
     "categoria": "AROS DE ACERO",
@@ -1601,7 +1473,7 @@
   },
   {
     "id": 1773285681470,
-    "nombre": "AROS ABRIDORES ACERO PLATEADOS",
+    "nombre": "AROS ABRIDORES ACERO PLATEADOS STRASS COLOR",
     "precio": 1750,
     "foto": "https://i.postimg.cc/Yqt2HsDq/35243f37-3dfc-40a5-ad16-bc86e32db13f.jpg",
     "categoria": "AROS DE ACERO",
@@ -1714,17 +1586,9 @@
   {
     "id": 1773286448038,
     "nombre": "BROCHES IRROMPIBLE CORONA MEDIANO ",
-    "precio": 1100,
+    "precio": 1200,
     "foto": "https://i.postimg.cc/vZRzT59s/73b33194-fc49-4825-966e-b7f453615ab5.jpg",
     "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1773286523943,
-    "nombre": "COLITAS X 3 X 10 CORAZON ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/MG5b94Ln/787fd0f2-53cd-4be1-bb12-76ece53fbb8a.jpg",
-    "categoria": "COLITAS",
     "suspendido": false
   },
   {
@@ -1768,16 +1632,8 @@
     "suspendido": false
   },
   {
-    "id": 1773286876182,
-    "nombre": "COLITAS SCUNZI CON DIJE CORAZON X 2 X 10",
-    "precio": 15000,
-    "foto": "https://i.postimg.cc/RVwK6bwz/e55bad9d-2a0a-41bf-9d04-cad51095a3b2.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773286918263,
-    "nombre": "COLITAS SCUNZI X 2 X 10 CON DIJE FLOR ",
+    "nombre": "COLITAS COLOR SCUNZI X 2 X 10 CON DIJE FLOR ",
     "precio": 15000,
     "foto": "https://i.postimg.cc/2yhbWVbJ/a23d2042-da99-49c6-988d-30d61d0f0191.jpg",
     "categoria": "COLITAS",
@@ -1785,23 +1641,15 @@
   },
   {
     "id": 1773286950088,
-    "nombre": "COLITAS LABUBU X 2 X 10 ",
-    "precio": 9000,
+    "nombre": "COLITAS COLOR LABUBU X 2 X 10 ",
+    "precio": 9500,
     "foto": "https://i.postimg.cc/43yY58Hy/cce5a9a4-fee1-404b-9391-ca83e11e07c3.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
   {
-    "id": 1773286978478,
-    "nombre": "COLITAS CEREZA X 2 X 10 ",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/GtFt2V60/36bbe0c0-94f7-4ca2-92b0-a24c0471c4ba.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773287006742,
-    "nombre": "AROS ABRIDORES ACERO PLATEADOS",
+    "nombre": "AROS ABRIDORES ACERO PLATEADOS PERLAS",
     "precio": 1750,
     "foto": "https://i.postimg.cc/4NGnM4hd/03b3e0cd-2a45-4273-a822-6e57efcb91a7.jpg",
     "categoria": "AROS DE ACERO",
@@ -1809,7 +1657,7 @@
   },
   {
     "id": 1773287033582,
-    "nombre": "AROS ABRIDORES ACERO PLATEADOS",
+    "nombre": "AROS ABRIDORES ACERO PLATEADOS STRASS BLANCO",
     "precio": 1750,
     "foto": "https://i.postimg.cc/cL9HrQkx/97975c56-0f41-4f45-b689-26a10a398a40.jpg",
     "categoria": "AROS DE ACERO",
@@ -1820,22 +1668,6 @@
     "nombre": "SET DE COLITAS , TIC TAC Y BROCHES CAPYBARA ",
     "precio": 1650,
     "foto": "https://i.postimg.cc/9MTF8smh/b9824388-3ac9-4c9d-83da-3f1888637189.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773287132302,
-    "nombre": "COLITAS CEREZA X 3 X 10 ",
-    "precio": 16500,
-    "foto": "https://i.postimg.cc/tCDRM3j2/c76335cf-701d-4866-88e5-e23a24340f42.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773287165870,
-    "nombre": "COLITAS SCUNZI LISAS X 2 X 10 ",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/R0JMh2nj/371cabc9-d083-4bbf-92e1-7eb404d6d9eb.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },

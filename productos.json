@@ -281,7 +281,7 @@
   },
   {
     "id": 1773241042846,
-    "nombre": "BRILLO CAPYBARA ",
+    "nombre": "BRILLO LABIAL CAPYBARA ",
     "precio": 2300,
     "foto": "https://i.postimg.cc/ZnCNSkkM/labial-camypara.png",
     "categoria": "BELLEZA ",
@@ -297,7 +297,7 @@
   },
   {
     "id": 1773241096374,
-    "nombre": "BRILLO STICH ",
+    "nombre": "BRILLO LABIAL STICH ",
     "precio": 2300,
     "foto": "https://i.postimg.cc/43L1DRmH/1000532062-scaled.jpg",
     "categoria": "BELLEZA ",
@@ -321,7 +321,7 @@
   },
   {
     "id": 1773241237990,
-    "nombre": "BRILLO LABIAL ",
+    "nombre": "BRILLO LABIAL PELOTA",
     "precio": 2300,
     "foto": "https://i.postimg.cc/7L3MsyDg/otro-labial.png",
     "categoria": "BELLEZA ",
@@ -369,7 +369,7 @@
   },
   {
     "id": 1773241690887,
-    "nombre": "SET DE COLLAR Y AROS ",
+    "nombre": "SET DE CADENA Y AROS ",
     "precio": 2000,
     "foto": "https://i.postimg.cc/mg6SzSjY/set-de-collares-con-stras.jpg",
     "categoria": "ACCESORIOS DE MUJER",
@@ -705,7 +705,7 @@
   },
   {
     "id": 1773255871275,
-    "nombre": "BROCHES MINI X 10 ",
+    "nombre": "BROCHES MINI X 10 NEGRO/CAREY",
     "precio": 1000,
     "foto": "https://i.postimg.cc/MZV3p8md/brochex10-mini.png",
     "categoria": "BROCHES",
@@ -738,7 +738,7 @@
   {
     "id": 1773256031411,
     "nombre": "BILLETERA DE HOMBRE EN CAJA ",
-    "precio": 10500,
+    "precio": 12000,
     "foto": "https://i.postimg.cc/G2YKtkGn/billeteras-hombre.png",
     "categoria": "BILLETERAS HOMBRE ",
     "suspendido": false
@@ -761,7 +761,7 @@
   },
   {
     "id": 1773256124427,
-    "nombre": "BILLETERA GRANDE MUJER DOBLE CIERRE ",
+    "nombre": "BILLETERA MUJER DOBLE CIERRE GRANDE FRANJA",
     "precio": 16500,
     "foto": "https://i.postimg.cc/fWc5hfMc/billetera-mujer-x7.png",
     "categoria": "BILLETERAS MUJER ",
@@ -1236,7 +1236,7 @@
     "nombre": "ROSARIO EN CAJITA ",
     "precio": 2400,
     "foto": "https://i.postimg.cc/wjXqpBW8/Gemini-Generated-Image-czvuhzczvuhzczvu.png",
-    "categoria": "ACCESORIOS DE MUJER",
+    "categoria": "VARIOS",
     "suspendido": false
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 1773284641749,
-    "nombre": "AROS AROGOLLA ACERO COMUN MEDIANO ",
+    "nombre": "AROS ARGOLLA ACERO COMUN MEDIANO ",
     "precio": 900,
     "foto": "https://i.postimg.cc/76Qh6M51/3882e343-c9e6-4828-a5b4-9a945238ed1a.jpg",
     "categoria": "AROS DE ACERO",
@@ -1466,7 +1466,7 @@
   {
     "id": 1773285597373,
     "nombre": "AROS ABRIDORES ACERO DORADOS PELOTITA",
-    "precio": 1750,
+    "precio": 1850,
     "foto": "https://i.postimg.cc/vTsYDqQB/ab2f7e5f-fa79-418a-b91b-0199c4edeabf.jpg",
     "categoria": "AROS DE ACERO",
     "suspendido": false
@@ -1505,7 +1505,7 @@
   },
   {
     "id": 1773285861981,
-    "nombre": "AROS ACERO ARGOLLAS GRANDE DORADOS",
+    "nombre": "AROS ACERO ARGOLLA GRANDE DORADOS",
     "precio": 1350,
     "foto": "https://i.postimg.cc/vThsTGq3/bfc798e0-3337-4dd0-9b2f-f2f6affa44d2.jpg",
     "categoria": "AROS DE ACERO",
@@ -1689,7 +1689,7 @@
   },
   {
     "id": 1779809353085,
-    "nombre": "AROS ARGOLLA CUBANO ",
+    "nombre": "AROS ACERO CUBANO ",
     "precio": 1800,
     "foto": "https://i.postimg.cc/bwwHzxmS/18ed185c-325f-430a-a73d-d8f7296f429b.jpg",
     "categoria": "AROS DE ACERO",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 1779809428028,
-    "nombre": "AROS ARGOLLA PLATEADO ",
+    "nombre": "AROS ACERO ARGOLLA PLATEADO ",
     "precio": 2000,
     "foto": "https://i.postimg.cc/QxXcbgGb/e01f2d12-11cb-40f1-8b84-1c5434af6212.jpg",
     "categoria": "AROS DE ACERO",
@@ -1745,7 +1745,7 @@
   },
   {
     "id": 1779809749994,
-    "nombre": "BILLETERA DOBLE CIERRE MEDIANA ",
+    "nombre": "BILLETERA MUJER DOBLE CIERRE MEDIANA LISA",
     "precio": 13000,
     "foto": "https://i.postimg.cc/y82Jwctg/1e3bb7cf-270b-4bde-8a8f-40defd4e801e.jpg",
     "categoria": "BILLETERAS MUJER ",
@@ -1753,7 +1753,7 @@
   },
   {
     "id": 1779809822997,
-    "nombre": "BILLETERA CIERRE SIMPLE ",
+    "nombre": "BILLETERA MUJER CIERRE SIMPLE AMAYRA",
     "precio": 13000,
     "foto": "https://i.postimg.cc/LXpJsRmc/3e830fd6-b33e-4c7f-a7df-4f6d34e363ef.jpg",
     "categoria": "BILLETERAS MUJER ",
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 1779810108924,
-    "nombre": "BILLETERA DOBLE CIERRE GRANDE ",
+    "nombre": "BILLETERA MUJER DOBLE CIERRE GRANDE DETALLE METAL",
     "precio": 16500,
     "foto": "https://i.postimg.cc/vHVD5cD0/c80902ef-f1bf-42f6-a59e-8b842611f314.jpg",
     "categoria": "BILLETERAS MUJER ",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 1779818195858,
-    "nombre": "ALICATE CURVO ",
+    "nombre": "ALICATE CORTA UÑAS CURVO ",
     "precio": 1300,
     "foto": "https://i.postimg.cc/Yq3v8j1g/0c2a2d64-a08c-4930-be4c-6578e5362c76.jpg",
     "categoria": "BELLEZA ",
@@ -1817,7 +1817,7 @@
   },
   {
     "id": 1779818293265,
-    "nombre": "AROS ABRIDORES ACERO OJO TURCO ",
+    "nombre": "AROS ABRIDORES ACERO PLATEADO OJO TURCO ",
     "precio": 1750,
     "foto": "https://i.postimg.cc/tRdJC7mQ/0d264e60-fcd8-44ff-aff3-b594570fdb4b.jpg",
     "categoria": "AROS DE ACERO",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 1779818323521,
-    "nombre": "BILLETERA CIERRE SIMPLE ",
+    "nombre": "BILLETERA MUJER CIERRE SIMPLE DETALLE METAL",
     "precio": 13000,
     "foto": "https://i.postimg.cc/g2j2Dszv/ce20e9dd-302b-428e-a6ec-bc5e194b1609.jpg",
     "categoria": "BILLETERAS MUJER ",
@@ -1833,7 +1833,7 @@
   },
   {
     "id": 1779818352112,
-    "nombre": "BILLETERA DOBLE CIERRE GRANDE ",
+    "nombre": "BILLETERA MUJER DOBLE CIERRE GRANDE LISA",
     "precio": 16500,
     "foto": "https://i.postimg.cc/6pP51ZTs/1a64d671-1176-4d24-9621-624d948754de.jpg",
     "categoria": "BILLETERAS MUJER ",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 1779818622448,
-    "nombre": "BROCHE RECTANGILAR GRANDE ",
+    "nombre": "BROCHE RECTANGULAR GRANDE ",
     "precio": 1750,
     "foto": "https://i.postimg.cc/9XwYQ6vq/310d2918-3cea-4510-aaea-3c4c28ed0575.jpg",
     "categoria": "BROCHES",
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 1779818834736,
-    "nombre": "TIJERA ALICATE ",
+    "nombre": "ALICATE TIJERA",
     "precio": 3900,
     "foto": "https://i.postimg.cc/hj1zX01m/60331d31-25e2-47a2-84c9-92887004b08a.jpg",
     "categoria": "BELLEZA ",
@@ -1913,7 +1913,7 @@
   },
   {
     "id": 1779818899544,
-    "nombre": "AROS ACERO STRASS X 3 ",
+    "nombre": "AROS ACERO X 3 STRASS ",
     "precio": 1900,
     "foto": "https://i.postimg.cc/HnSr2sKW/5650f931-0264-4006-bdbe-3dd6d9269ab2.jpg",
     "categoria": "AROS DE ACERO",
@@ -1924,7 +1924,7 @@
     "nombre": "AROS ACERO ARGOLLA Y CRUZ X 12 ",
     "precio": 15000,
     "foto": "https://i.postimg.cc/kMwR9f4m/9755b67a-2adf-46bc-abf9-cb48d279ee84.jpg",
-    "categoria": "AROS DE ACERO",
+    "categoria": "AROS BLISTER",
     "suspendido": false
   }
 ]

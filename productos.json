@@ -1686,5 +1686,117 @@
     "foto": "https://i.postimg.cc/L5DSGpr8/b3b97d5c-ef8d-468a-9975-262e64ffabc7.jpg",
     "categoria": "VARIOS",
     "suspendido": false
+  },
+  {
+    "id": 1779809353085,
+    "nombre": "AROS ARGOLLA CUBANO ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/bwwHzxmS/18ed185c-325f-430a-a73d-d8f7296f429b.jpg",
+    "categoria": "AROS DE ACERO",
+    "suspendido": false
+  },
+  {
+    "id": 1779809428028,
+    "nombre": "AROS ARGOLLA PLATEADO ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/QxXcbgGb/e01f2d12-11cb-40f1-8b84-1c5434af6212.jpg",
+    "categoria": "AROS DE ACERO",
+    "suspendido": false
+  },
+  {
+    "id": 1779809508807,
+    "nombre": "BRILLO LABIAL KUROMI ",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/hPpT3JK7/500642ac-89b8-4c6d-954b-53420c1f309d.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1779809562480,
+    "nombre": "BRILLO LABIAL ROSA ",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/50dCFLSR/93b27e51-88fa-42f4-a362-f7cc48445dda.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1779809618466,
+    "nombre": "SET DE COLITAS + BROCHE",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/Kc5MRKkM/b60b9f15-2168-40ca-bf6e-ee3c3ebbf628.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779809655080,
+    "nombre": " BROCHES MINI X 10 COLOR ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/wTTsJ6D6/b4aedfcc-2f3c-46e3-9c07-44878012dad6.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1779809706300,
+    "nombre": "SET DE BROCHE X 3 ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/YCvGnbXs/d6a86976-877e-4312-b7dc-d17442465c52.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1779809749994,
+    "nombre": "BILLETERA DOBLE CIERRE MEDIANA ",
+    "precio": 13000,
+    "foto": "https://i.postimg.cc/y82Jwctg/1e3bb7cf-270b-4bde-8a8f-40defd4e801e.jpg",
+    "categoria": "BILLETERAS MUJER ",
+    "suspendido": false
+  },
+  {
+    "id": 1779809822997,
+    "nombre": "BILLETERA CIERRE SIMPLE ",
+    "precio": 13000,
+    "foto": "https://i.postimg.cc/LXpJsRmc/3e830fd6-b33e-4c7f-a7df-4f6d34e363ef.jpg",
+    "categoria": "BILLETERAS MUJER ",
+    "suspendido": false
+  },
+  {
+    "id": 1779810072541,
+    "nombre": "COLITAS LABUBU 2 X 10 DIJE DE ACRILICO ",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/130tY2GH/08219845-86ef-4e86-9aa7-7d9a7b9056ae.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779810108924,
+    "nombre": "BILLETERA DOBLE CIERRE GRANDE ",
+    "precio": 16500,
+    "foto": "https://i.postimg.cc/vHVD5cD0/c80902ef-f1bf-42f6-a59e-8b842611f314.jpg",
+    "categoria": "BILLETERAS MUJER ",
+    "suspendido": false
+  },
+  {
+    "id": 1779810154539,
+    "nombre": "COLITAS FLOR 2 X 10 DIJE ACRILICO ",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/hGpGKm3X/7ddb34af-34d7-47ba-896e-586af97ecf1e.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779810216525,
+    "nombre": "COLITAS STICH 2 X 10 DIJE ACRILICO ",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/C15x5K3Y/ccc6f82a-4322-42e8-acb2-9c21d84536bb.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1779810251464,
+    "nombre": "SET DE VINCHA ELASTICA X 4 ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/FKsLbNMS/56fe3787-521b-4f68-9b70-5c5fda581d59.jpg",
+    "categoria": "VINCHAS",
+    "suspendido": false
   }
 ]

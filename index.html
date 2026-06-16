@@ -318,7 +318,7 @@
         // =================================================================
         let productos = [];
         let categorias = [];
-        let carrito = JSON.parse(localStorage.getItem('carritoPY')) || [];
+        let carrito = JSON.parse(localStorage.getItem('carritobijou')) || [];
         const CLAVE_ADMIN = "MM2025";
         const TELEFONO_WHATSAPP = "5492478422323"; 
 
@@ -565,7 +565,7 @@
         };
 
         const guardarCarrito = () => {
-            localStorage.setItem('carritoPY', JSON.stringify(carrito));
+            localStorage.setItem('carritobijou', JSON.stringify(carrito));
         };
 
         const actualizarContadorCarrito = () => {

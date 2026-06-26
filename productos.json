@@ -336,14 +336,6 @@
     "suspendido": false
   },
   {
-    "id": 1773241732751,
-    "nombre": "CORRECTOR DE OJERAS ",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/VLmg3v5X/unnamed-(1).jpg",
-    "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
     "id": 1773241763831,
     "nombre": "COLITAS X 3 LABUBU DIJE GOMA ",
     "precio": 1000,
@@ -1765,6 +1757,134 @@
     "precio": 15000,
     "foto": "https://i.postimg.cc/kMwR9f4m/9755b67a-2adf-46bc-abf9-cb48d279ee84.jpg",
     "categoria": "AROS BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1782503954316,
+    "nombre": "SET DE CADENAS DORADAS TRIPLES CON DIJES ",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/RV7RHHFH/e015e7d9-dae5-4215-ac80-91bf466384f3.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1782504013278,
+    "nombre": "COLLAR CHOKER CON DIJE ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/cJbMS79W/6013b9bc-af93-4558-8e9b-ff4e08c103a3.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1782504036021,
+    "nombre": "CADENA DORADA DIJE GUINDAS CON AROS ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/FRkbsf8p/a59471ca-5688-45f4-be3d-b23560c1e131.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1782504059909,
+    "nombre": "BROCHES METAL GRANDE STRASS PLATEADO",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/FFcbMLjN/8dc8ea87-5d5b-4527-b301-e24eb30f8377.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504078740,
+    "nombre": "COLITAS TRENSADAS X 2 CON DIJES",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/65XVtp04/135d583b-77fb-45f9-bc4f-06ff9bac96b0.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1782504096413,
+    "nombre": "COLITAS CORAZON ACRILICO X 2 X 10",
+    "precio": 15000,
+    "foto": "https://i.postimg.cc/3xrg0fzK/68c717bf-46ed-4cde-afe4-e35e1591f15c.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1782504134901,
+    "nombre": "RIÑONERAS COMUNES",
+    "precio": 4000,
+    "foto": "https://i.postimg.cc/nrYDCq1y/76ea1ef8-b685-4eea-b341-e4bdaa6f1ba5.jpg",
+    "categoria": "BILLETERAS HOMBRE ",
+    "suspendido": false
+  },
+  {
+    "id": 1782504152700,
+    "nombre": "COLITAS POMPON X 2",
+    "precio": 850,
+    "foto": "https://i.postimg.cc/4yb9mp5p/52cad8e2-5bdb-4804-af73-e3ae9e337069.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1782504177732,
+    "nombre": "CORRECTOR DE OJERAS ",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/L62PG092/a137bb85-11ee-46e5-b9d7-89059cfa462b.jpg",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504324109,
+    "nombre": "SOMBRAS X 6 COLORES N° 3",
+    "precio": 4700,
+    "foto": "https://i.postimg.cc/Y2VV3YMx/2c915857-bb78-4472-93a3-02d9451a2171.jpg",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504343572,
+    "nombre": "SOMBRAS X 12 COLORES N° 2",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/7LxQ6Nny/76245358-1f80-45b0-ace7-5ea0de460d04.jpg",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504373308,
+    "nombre": "SOMBRAS X 4 COLORES N° 1",
+    "precio": 5000,
+    "foto": "https://i.postimg.cc/Njvnhtym/b3e94f6a-b9b8-4c6d-9a56-29d0823d2121.jpg",
+    "categoria": "MAQUILLAJES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504407892,
+    "nombre": "PEINE GRUESO CON MANGO MEDIANO",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/1zJ7NNvJ/e53081f1-c838-42a9-aa6a-ca3165431d0e.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1782504429228,
+    "nombre": "BROCHE CORAZON FLOR ",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/SsRTLN5X/b42eb418-f680-40fd-acda-b58b5fc9d7a6.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504462757,
+    "nombre": "PERFUMES VARON DE 30 ML",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/L8TFN5yq/4bb0577c-65e5-4138-a605-cf6bef089b31.jpg",
+    "categoria": "PERFUMES",
+    "suspendido": false
+  },
+  {
+    "id": 1782504489644,
+    "nombre": "PERFUME MUJER DE 30 ML",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/7Lt8rcrJ/8381d40a-5930-4522-af60-d7f48706ecf4.jpg",
+    "categoria": "PERFUMES",
     "suspendido": false
   }
 ]

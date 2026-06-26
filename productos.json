@@ -104,14 +104,6 @@
     "suspendido": false
   },
   {
-    "id": 1773234815681,
-    "nombre": "BROCHES X 3 X 10 ",
-    "precio": 9000,
-    "foto": "https://i.postimg.cc/7hN9Qrkh/unnamed-(21).jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
     "id": 1773234909824,
     "nombre": "BROCHES X 3 X 10 COLOR LOVE",
     "precio": 9000,
@@ -176,14 +168,6 @@
     "suspendido": false
   },
   {
-    "id": 1773236120409,
-    "nombre": "BROCHES PLASTICO FLOR ",
-    "precio": 800,
-    "foto": " https://i.postimg.cc/g0T28xLq/unnamed-(8).jpg",
-    "categoria": "BROCHES",
-    "suspendido": true
-  },
-  {
     "id": 1773236152321,
     "nombre": "BROCHES  MARIPOSAS GRANDES ",
     "precio": 2500,
@@ -196,14 +180,6 @@
     "nombre": "BROCHES ACRILICO MARIPOSA COLOR ",
     "precio": 1650,
     "foto": "https://i.postimg.cc/ncGVTRQt/unnamed-(6).jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1773236210281,
-    "nombre": "BROCHES ACRILICO MEDIANO ",
-    "precio": 1650,
-    "foto": "https://i.postimg.cc/DwfvNrqr/unnamed-(5).jpg",
     "categoria": "BROCHES",
     "suspendido": false
   },
@@ -293,7 +269,7 @@
     "precio": 2300,
     "foto": "https://i.postimg.cc/43L1DRmH/1000532062-scaled.jpg",
     "categoria": "BELLEZA ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773241154886,
@@ -317,14 +293,6 @@
     "precio": 2300,
     "foto": "https://i.postimg.cc/7L3MsyDg/otro-labial.png",
     "categoria": "BELLEZA ",
-    "suspendido": false
-  },
-  {
-    "id": 1773241300127,
-    "nombre": "PULSERA ELASTICA CON DIJE CRUZ ",
-    "precio": 1900,
-    "foto": "https://i.postimg.cc/kGnShVwP/pulcera-elastica-con-cruz.png",
-    "categoria": "PULSERAS FANTASIA",
     "suspendido": false
   },
   {
@@ -392,14 +360,6 @@
     "suspendido": false
   },
   {
-    "id": 1773250614006,
-    "nombre": "SOMBRA 9 COLOLRES ",
-    "precio": 5500,
-    "foto": "https://i.postimg.cc/N0bx3JgL/Gemini-Generated-Image-n538bhn538bhn538.png",
-    "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
     "id": 1773250664086,
     "nombre": "PIERCING OMBLIGO DOBLE STRASS X 12",
     "precio": 8000,
@@ -448,14 +408,6 @@
     "suspendido": false
   },
   {
-    "id": 1773251275798,
-    "nombre": "SOMBRA 12 COLORES",
-    "precio": 6000,
-    "foto": "https://i.postimg.cc/3r9d2st1/Gemini-Generated-Image-j2y6zhj2y6zhj2y6.png",
-    "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
     "id": 1773251356582,
     "nombre": "PEINE GRUESO COLERO",
     "precio": 1650,
@@ -485,14 +437,6 @@
     "precio": 1000,
     "foto": "https://i.postimg.cc/x87Qt3JS/Gemini-Generated-Image-e87zbze87zbze87z.png",
     "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773252746865,
-    "nombre": "PEINE GRUESO RULOS",
-    "precio": 1900,
-    "foto": "https://i.postimg.cc/6pTXFSVg/Gemini-Generated-Image-bltqzebltqzebltq.png",
-    "categoria": "BELLEZA ",
     "suspendido": false
   },
   {
@@ -552,14 +496,6 @@
     "suspendido": false
   },
   {
-    "id": 1773253328696,
-    "nombre": "SOMBRAS X 10 ",
-    "precio": 5500,
-    "foto": "https://i.postimg.cc/gJz4T98R/Gemini-Generated-Image-5pcqj65pcqj65pcq.png",
-    "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
     "id": 1773253364952,
     "nombre": "TIRA COLITAS X 10 FINAS CON DIJE ",
     "precio": 4000,
@@ -590,14 +526,6 @@
     "foto": "https://i.postimg.cc/3RrN49Qy/Gemini-Generated-Image-1eqh1q1eqh1q1eqh-(1).png",
     "categoria": "BELLEZA ",
     "suspendido": false
-  },
-  {
-    "id": 1773254591561,
-    "nombre": "CORTA CUTICULA ",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/fypRPNtM/empuja-cuticula.jpg",
-    "categoria": "BELLEZA ",
-    "suspendido": true
   },
   {
     "id": 1773254673537,
@@ -701,7 +629,7 @@
     "precio": 1000,
     "foto": "https://i.postimg.cc/MZV3p8md/brochex10-mini.png",
     "categoria": "BROCHES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773255906746,
@@ -925,7 +853,7 @@
     "precio": 13000,
     "foto": "https://i.postimg.cc/d3zX7qSX/Gemini-Generated-Image-1ycc051ycc051ycc.png",
     "categoria": "AROS BLISTER",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773260230400,
@@ -1168,22 +1096,6 @@
     "suspendido": false
   },
   {
-    "id": 1773262543690,
-    "nombre": "VINCHA GATITO CON STRASS",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/KvnSKHtQ/Gemini-Generated-Image-u3jn4ku3jn4ku3jn.png",
-    "categoria": "VINCHAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773262593627,
-    "nombre": "VINCHA DE TULL CON PERLA ",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/R0ZjDCyw/Gemini-Generated-Image-mmqvo7mmqvo7mmqv.png",
-    "categoria": "VINCHAS",
-    "suspendido": false
-  },
-  {
     "id": 1773262626258,
     "nombre": "BROCHES ACRILICO MARIPOSAS GRANDE ",
     "precio": 2500,
@@ -1304,34 +1216,10 @@
     "suspendido": false
   },
   {
-    "id": 1773283845356,
-    "nombre": "COLITAS CAPYBARA  X 2 X 10 ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/qBLCfyBz/89b961da-0096-484e-bff4-8e9b75683310.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773283880387,
     "nombre": "COLITAS COLOR STICH X 2 X 10",
     "precio": 9500,
     "foto": "https://i.postimg.cc/5yTJcs6h/9b6ed4c8-b73d-422b-8932-01d3fda838ca.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284103924,
-    "nombre": "COLITAS BEBE X 4 X 10 KUROMI ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/3x783bLJ/47ace9d6-699a-404c-b575-0b19c69c6e4d.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773284333286,
-    "nombre": "COLITAS CARITA OSITO X 2 X 10 ",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/Qt7w9jt0/7fdbbe0c-22dc-4ffe-bcf5-e537f7b4a36a.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
@@ -1445,7 +1333,7 @@
     "precio": 650,
     "foto": "https://i.postimg.cc/qByg0nkt/4efaafbd-cd91-4eaa-9c2f-77baa4474774.jpg",
     "categoria": "BELLEZA ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773285570221,
@@ -1504,14 +1392,6 @@
     "suspendido": false
   },
   {
-    "id": 1773285897021,
-    "nombre": "AROS ACERO CORAZON ",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/8PyGVPrF/4621c403-9d78-4ca4-abaa-2598dda47c69.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
     "id": 1773285940550,
     "nombre": "AROS ACERO DOBLE TRENSADOS",
     "precio": 2000,
@@ -1548,30 +1428,6 @@
     "nombre": "AROS ACERO TRENSADO SIMPLE",
     "precio": 2000,
     "foto": "https://i.postimg.cc/7ZTWQx1v/537c673c-cb5c-4ea1-aa8f-c68695078dbe.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 1773286345064,
-    "nombre": "AROS ACERO ANCHOS MEDIANOS",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/kG4jN9Xq/911d60d3-fbeb-44a2-8b73-fc273153b0cc.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 1773286376174,
-    "nombre": "AROS ACERO ANCHO CHICO",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/3JzLGPs9/f72f6d08-482c-4bd0-8658-dbf06728b915.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 1773286420486,
-    "nombre": "AROS ACERO CILINDRICO ",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/fbf56kJq/d3366e62-a97c-4713-9a9b-83b624fcab7e.jpg",
     "categoria": "AROS DE ACERO",
     "suspendido": false
   },
@@ -1621,14 +1477,6 @@
     "precio": 1000,
     "foto": "https://i.postimg.cc/1zmGZcn9/313db699-9ae6-4b88-b7b9-0c1a740f978b.jpg",
     "categoria": "HEBILLAS TICTAC BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 1773286918263,
-    "nombre": "COLITAS COLOR SCUNZI X 2 X 10 CON DIJE FLOR ",
-    "precio": 15000,
-    "foto": "https://i.postimg.cc/2yhbWVbJ/a23d2042-da99-49c6-988d-30d61d0f0191.jpg",
-    "categoria": "COLITAS",
     "suspendido": false
   },
   {

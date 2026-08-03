@@ -61,7 +61,7 @@
     "precio": 3000,
     "foto": "https://i.postimg.cc/sDXg2PNq/unnamed-(27).jpg",
     "categoria": "MAQUILLAJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773234501192,
@@ -133,7 +133,7 @@
     "precio": 900,
     "foto": "https://i.postimg.cc/bwRGDYR6/unnamed-(13).jpg",
     "categoria": "HEBILLAS TICTAC BLISTER",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773235854641,
@@ -148,14 +148,6 @@
     "nombre": "TIC TAC METAL NEGRO MEDIANO X 12 ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/MGPv5sNm/unnamed-(12).jpg",
-    "categoria": "HEBILLAS TICTAC BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 1773235986217,
-    "nombre": "TIC TAC RESINA GRANDE X 10",
-    "precio": 2200,
-    "foto": "https://i.postimg.cc/qBCzcxLK/unnamed-(11).jpg",
     "categoria": "HEBILLAS TICTAC BLISTER",
     "suspendido": false
   },
@@ -202,7 +194,7 @@
   {
     "id": 1773240214437,
     "nombre": "PEINE COMUN CON MANGO",
-    "precio": 850,
+    "precio": 950,
     "foto": "https://i.postimg.cc/W3FnGYSJ/Gemini-Generated-Image-ri5vwsri5vwsri5v.png",
     "categoria": "BELLEZA ",
     "suspendido": false
@@ -245,7 +237,7 @@
     "precio": 4500,
     "foto": "https://i.postimg.cc/qB5nG7yr/labial.png",
     "categoria": "MAQUILLAJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773241042846,
@@ -268,14 +260,6 @@
     "nombre": "BRILLO LABIAL STICH ",
     "precio": 2300,
     "foto": "https://i.postimg.cc/43L1DRmH/1000532062-scaled.jpg",
-    "categoria": "BELLEZA ",
-    "suspendido": true
-  },
-  {
-    "id": 1773241154886,
-    "nombre": "LABIALES MATE ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/6qmd2WLC/labiales.png",
     "categoria": "BELLEZA ",
     "suspendido": false
   },
@@ -392,14 +376,6 @@
     "suspendido": false
   },
   {
-    "id": 1773251243318,
-    "nombre": "PEINETA COMUN",
-    "precio": 850,
-    "foto": "https://i.postimg.cc/fLNJvDnh/Gemini-Generated-Image-jhu9lcjhu9lcjhu9.png",
-    "categoria": "BELLEZA ",
-    "suspendido": false
-  },
-  {
     "id": 1773251356582,
     "nombre": "PEINE GRUESO COLERO",
     "precio": 1650,
@@ -421,7 +397,7 @@
     "precio": 1900,
     "foto": "https://i.postimg.cc/sXj3XXCj/Gemini-Generated-Image-eb6ztweb6ztweb6z.png",
     "categoria": "BELLEZA ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773251551294,
@@ -450,15 +426,15 @@
   {
     "id": 1773252959983,
     "nombre": "PIERCING DE LENGUA X 12",
-    "precio": 3000,
+    "precio": 4000,
     "foto": "https://i.postimg.cc/13bL2z3G/Gemini-Generated-Image-agtv8wagtv8wagtv.png",
     "categoria": "PIERCING ",
     "suspendido": false
   },
   {
     "id": 1773253007544,
-    "nombre": "CORDON COLGANTE PARA  ANTEOJO X 6",
-    "precio": 3000,
+    "nombre": "CORDON MALLADO COLGANTE PARA  ANTEOJOS X 6",
+    "precio": 7300,
     "foto": "https://i.postimg.cc/SshHQt8N/Gemini-Generated-Image-a11bv7a11bv7a11b.png",
     "categoria": "VARIOS",
     "suspendido": false
@@ -472,27 +448,11 @@
     "suspendido": false
   },
   {
-    "id": 1773253162800,
-    "nombre": "COLITAS X 3 CON DIJE ACRILICO CAPYBARA ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/fRSPchf3/Gemini-Generated-Image-53ale953ale953al.png",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773253196256,
     "nombre": "SOMBRA  X 12 ",
     "precio": 6500,
     "foto": "https://i.postimg.cc/nL8PTw36/Gemini-Generated-Image-39j81a39j81a39j8.png",
     "categoria": "MAQUILLAJES",
-    "suspendido": false
-  },
-  {
-    "id": 1773253364952,
-    "nombre": "TIRA COLITAS X 10 FINAS CON DIJE ",
-    "precio": 4000,
-    "foto": "https://i.postimg.cc/HnjzTQSr/Gemini-Generated-Image-5i7ezj5i7ezj5i7e.png",
-    "categoria": "COLITAS",
     "suspendido": false
   },
   {
@@ -524,14 +484,6 @@
     "nombre": "TERMINALES DE TRENCITAS COLITAS X 12",
     "precio": 2000,
     "foto": "https://i.postimg.cc/1zB5Q6nd/D-736350-MLA82960483022-032025-C.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1773254700857,
-    "nombre": "COLITAS X 3 STICH CON DIJE ACRILICO ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/cH5xKScf/D-719174-MLA75267850515-032024-O.jpg",
     "categoria": "COLITAS",
     "suspendido": false
   },
@@ -586,7 +538,7 @@
   {
     "id": 1773255179291,
     "nombre": "BROCHES PESCADITO MEDIANO",
-    "precio": 950,
+    "precio": 1100,
     "foto": "https://i.postimg.cc/KYhy45g7/615e5015-21ac-4f23-be82-15857b0f2dd4.jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -594,7 +546,7 @@
   {
     "id": 1773255232218,
     "nombre": "BROCHES PESCADITO GRANDE ",
-    "precio": 1200,
+    "precio": 1300,
     "foto": "https://i.postimg.cc/KYhy45g7/615e5015-21ac-4f23-be82-15857b0f2dd4.jpg",
     "categoria": "BROCHES",
     "suspendido": false
@@ -602,17 +554,9 @@
   {
     "id": 1773255294818,
     "nombre": "LINTERNA PLASTICA ECONOMICA",
-    "precio": 1100,
+    "precio": 1250,
     "foto": "https://i.postimg.cc/4d4qh24c/ba668311-7ec7-40c5-9d73-607227504855.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 1773255803765,
-    "nombre": "COLLAR PLATEADO CON DIJE ",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/9FPkJj4R/CADENA-PLATEADA-CON-DIJE.jpg",
-    "categoria": "ACCESORIOS DE MUJER",
     "suspendido": false
   },
   {
@@ -650,7 +594,7 @@
   {
     "id": 1773256031411,
     "nombre": "BILLETERA DE HOMBRE EN CAJA ",
-    "precio": 12000,
+    "precio": 13000,
     "foto": "https://i.postimg.cc/G2YKtkGn/billeteras-hombre.png",
     "categoria": "BILLETERAS HOMBRE ",
     "suspendido": false
@@ -658,17 +602,9 @@
   {
     "id": 1773256063331,
     "nombre": "BILLETERA DE HOMBRE COMUN O CON BROCHE ",
-    "precio": 3300,
+    "precio": 4500,
     "foto": "https://i.postimg.cc/zBW7vnKT/billeteras-hombre-x2.png",
     "categoria": "BILLETERAS HOMBRE ",
-    "suspendido": false
-  },
-  {
-    "id": 1773256093587,
-    "nombre": "BILLETERA MUJER DOBLE CIERRE LEBLU",
-    "precio": 16500,
-    "foto": "https://i.postimg.cc/MHSDQvm1/billetera-mujer-x8.png",
-    "categoria": "BILLETERAS MUJER ",
     "suspendido": false
   },
   {
@@ -676,30 +612,6 @@
     "nombre": "BILLETERA MUJER DOBLE CIERRE GRANDE FRANJA",
     "precio": 16500,
     "foto": "https://i.postimg.cc/fWc5hfMc/billetera-mujer-x7.png",
-    "categoria": "BILLETERAS MUJER ",
-    "suspendido": false
-  },
-  {
-    "id": 1773256201219,
-    "nombre": "BILLETERA MUJER CON CIERRE SIMPLE LEBLU",
-    "precio": 12000,
-    "foto": "https://i.postimg.cc/dV19rMrp/billetera-mujer-x5.png",
-    "categoria": "BILLETERAS MUJER ",
-    "suspendido": false
-  },
-  {
-    "id": 1773256242010,
-    "nombre": "BILLETERA  MUJER CIERRE SIMPLE TRENDY",
-    "precio": 11000,
-    "foto": "https://i.postimg.cc/YCszxXx1/billetera-mujer-x4.png",
-    "categoria": "BILLETERAS MUJER ",
-    "suspendido": false
-  },
-  {
-    "id": 1773256821525,
-    "nombre": "BILLETERA MUJER CIERRE SIMPLE LEBLU COLOR",
-    "precio": 12000,
-    "foto": "https://i.postimg.cc/W47rHXGW/billetera-mujer.png",
     "categoria": "BILLETERAS MUJER ",
     "suspendido": false
   },
@@ -800,14 +712,6 @@
     "suspendido": false
   },
   {
-    "id": 1773259896158,
-    "nombre": "COLITAS X 3 STICH CON DIJE GOMA ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/LXjm4bX2/Whats-App-Image-2026-03-09-at-3-25-29-PM.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773259933368,
     "nombre": "AROS PERLA BLANCAS X 36 GRANDE ",
     "precio": 8000,
@@ -841,11 +745,11 @@
   },
   {
     "id": 1773260195128,
-    "nombre": "AROS GOTITA PLATEADOS Y DORADOS X 12",
-    "precio": 13000,
+    "nombre": "AROS GOTITA CHICOS PLATEADOS Y DORADOS X 12",
+    "precio": 10000,
     "foto": "https://i.postimg.cc/d3zX7qSX/Gemini-Generated-Image-1ycc051ycc051ycc.png",
     "categoria": "AROS BLISTER",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1773260230400,
@@ -882,7 +786,7 @@
   {
     "id": 1773260496975,
     "nombre": "AROS ARGOLAS ACERO CHICOS X 12 ",
-    "precio": 11000,
+    "precio": 11500,
     "foto": "https://i.postimg.cc/y8WjqqfG/Gemini-Generated-Image-laz4wflaz4wflaz4.png",
     "categoria": "AROS BLISTER",
     "suspendido": false
@@ -989,14 +893,6 @@
     "precio": 2000,
     "foto": "https://i.postimg.cc/ZY7jwKH7/Gemini-Generated-Image-rz3lhjrz3lhjrz3l.png",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 1773261555084,
-    "nombre": "BROCHES MARIPOSA X 12",
-    "precio": 5000,
-    "foto": "https://i.postimg.cc/htrr6Lqh/Gemini-Generated-Image-oq4tn9oq4tn9oq4t.png",
-    "categoria": "BROCHES",
     "suspendido": false
   },
   {
@@ -1112,22 +1008,6 @@
     "suspendido": false
   },
   {
-    "id": 1773262765995,
-    "nombre": "BROCHES EXTRA GRANDE CURVO MATE",
-    "precio": 2100,
-    "foto": "https://i.postimg.cc/L6FGM3G1/Gemini-Generated-Image-gstsv6gstsv6gsts.png",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1773262803994,
-    "nombre": "BROCHES COLORES GRANDE ",
-    "precio": 1950,
-    "foto": "https://i.postimg.cc/YqNZ2mw6/Gemini-Generated-Image-739sm7739sm7739s.png",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
     "id": 1773263070498,
     "nombre": "ROSARIO EN CAJITA ",
     "precio": 2400,
@@ -1141,7 +1021,7 @@
     "precio": 3000,
     "foto": "https://i.postimg.cc/90w2NX4g/Gemini-Generated-Image-9dxwc29dxwc29dxw.png",
     "categoria": "MAQUILLAJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773263140617,
@@ -1218,7 +1098,7 @@
   {
     "id": 1773284483412,
     "nombre": "PIERCING NARIZ RECTO COLOR X 40 ",
-    "precio": 3800,
+    "precio": 4000,
     "foto": "https://i.postimg.cc/tJS39xjf/cf74f310-da2a-487b-ad6c-13f70352dd30.jpg",
     "categoria": "PIERCING ",
     "suspendido": false
@@ -1226,7 +1106,7 @@
   {
     "id": 1773284564484,
     "nombre": "PIERCING NARIZ CURVO BLANCO X 40 ",
-    "precio": 4800,
+    "precio": 5000,
     "foto": "https://i.postimg.cc/fyJ3jg4N/44133902-406b-44e2-b0c2-5e4b645b4cae.jpg",
     "categoria": "PIERCING ",
     "suspendido": false
@@ -1274,7 +1154,7 @@
   {
     "id": 1773284924740,
     "nombre": "PIERCING NARIZ CURVO COLOR X 40",
-    "precio": 4800,
+    "precio": 5000,
     "foto": "https://i.postimg.cc/rz280hMg/abafa3b5-0d05-49ed-b430-e2c1311c2eff.jpg",
     "categoria": "PIERCING ",
     "suspendido": false
@@ -1306,7 +1186,7 @@
   {
     "id": 1773285336845,
     "nombre": "PIERCING BARRA OREJA  X 12 ",
-    "precio": 4800,
+    "precio": 5000,
     "foto": "https://i.postimg.cc/g2YxgJbj/84fb1125-9687-4256-977b-eb85b243f51a.jpg",
     "categoria": "PIERCING ",
     "suspendido": false
@@ -1321,11 +1201,11 @@
   },
   {
     "id": 1773285403333,
-    "nombre": "PEINE COMUN DE BOLSILLO",
-    "precio": 650,
+    "nombre": "PEINE COMUN ",
+    "precio": 950,
     "foto": "https://i.postimg.cc/qByg0nkt/4efaafbd-cd91-4eaa-9c2f-77baa4474774.jpg",
     "categoria": "BELLEZA ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1773285570221,
@@ -1348,14 +1228,6 @@
     "nombre": "AROS ABRIDORES ACERO PLATEADOS STRASS COLOR",
     "precio": 1750,
     "foto": "https://i.postimg.cc/Yqt2HsDq/35243f37-3dfc-40a5-ad16-bc86e32db13f.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 1773285725013,
-    "nombre": "AROS ACERO TRENSADOS",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/Jnwmd6HT/e5ce74b3-c440-423e-a028-b6ac88a4812c.jpg",
     "categoria": "AROS DE ACERO",
     "suspendido": false
   },
@@ -1410,7 +1282,7 @@
   {
     "id": 1773286169000,
     "nombre": "PIERCING NARIZ RECTO BLANCO X 40",
-    "precio": 3800,
+    "precio": 4000,
     "foto": "https://i.postimg.cc/02j3DGby/72dae4e3-870d-4460-935a-6ed1ce8bdd0c.jpg",
     "categoria": "PIERCING ",
     "suspendido": false
@@ -1461,7 +1333,7 @@
     "precio": 600,
     "foto": "https://i.postimg.cc/kMzvtbZS/5a535845-e660-4928-8a43-bf6a8b029316.jpg",
     "categoria": "COLITAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773286832470,
@@ -1524,14 +1396,6 @@
     "nombre": "AROS ACERO CUBANO ",
     "precio": 1800,
     "foto": "https://i.postimg.cc/bwwHzxmS/18ed185c-325f-430a-a73d-d8f7296f429b.jpg",
-    "categoria": "AROS DE ACERO",
-    "suspendido": false
-  },
-  {
-    "id": 1779809428028,
-    "nombre": "AROS ACERO ARGOLLA PLATEADO ",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/QxXcbgGb/e01f2d12-11cb-40f1-8b84-1c5434af6212.jpg",
     "categoria": "AROS DE ACERO",
     "suspendido": false
   },
@@ -1680,14 +1544,6 @@
     "suspendido": false
   },
   {
-    "id": 1779818470504,
-    "nombre": "COLLAR CON DIJE PLATEADO ",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/155mmBqQ/13944af9-9872-485f-9ec1-9a3ce577d62d.jpg",
-    "categoria": "ACCESORIOS DE MUJER",
-    "suspendido": false
-  },
-  {
     "id": 1779818567672,
     "nombre": "BROCHE RECTANGULAR COLOR MEDIANO ",
     "precio": 1650,
@@ -1729,8 +1585,8 @@
   },
   {
     "id": 1779818834736,
-    "nombre": "ALICATE TIJERA",
-    "precio": 3900,
+    "nombre": "TIJERA DE METAL ELOSSE ",
+    "precio": 4500,
     "foto": "https://i.postimg.cc/hj1zX01m/60331d31-25e2-47a2-84c9-92887004b08a.jpg",
     "categoria": "BELLEZA ",
     "suspendido": false
@@ -1792,14 +1648,6 @@
     "suspendido": false
   },
   {
-    "id": 1782504078740,
-    "nombre": "COLITAS TRENSADAS X 2 CON DIJES",
-    "precio": 1650,
-    "foto": "https://i.postimg.cc/65XVtp04/135d583b-77fb-45f9-bc4f-06ff9bac96b0.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1782504096413,
     "nombre": "COLITAS CORAZON ACRILICO X 2 X 10",
     "precio": 15000,
@@ -1813,14 +1661,6 @@
     "precio": 4000,
     "foto": "https://i.postimg.cc/nrYDCq1y/76ea1ef8-b685-4eea-b341-e4bdaa6f1ba5.jpg",
     "categoria": "BILLETERAS HOMBRE ",
-    "suspendido": false
-  },
-  {
-    "id": 1782504152700,
-    "nombre": "COLITAS POMPON X 2",
-    "precio": 850,
-    "foto": "https://i.postimg.cc/4yb9mp5p/52cad8e2-5bdb-4804-af73-e3ae9e337069.jpg",
-    "categoria": "COLITAS",
     "suspendido": false
   },
   {
@@ -1885,6 +1725,246 @@
     "precio": 7200,
     "foto": "https://i.postimg.cc/7Lt8rcrJ/8381d40a-5930-4522-af60-d7f48706ecf4.jpg",
     "categoria": "PERFUMES",
+    "suspendido": false
+  },
+  {
+    "id": 1785786317495,
+    "nombre": "LABIALES MATE COLORES VARIOS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/d3LSGyw6/012d6b61-f227-4b7c-904d-9eff969da418.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1785786451983,
+    "nombre": "PULSERA DORADA CON NDIJES VARIOS ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/WzBSrY9d/1f0dc192-502b-458a-a1a5-8b556a1e1910.jpg",
+    "categoria": "PULSERAS FANTASIA",
+    "suspendido": false
+  },
+  {
+    "id": 1785786648294,
+    "nombre": "COLLAR PLATEADOS X 3 CON DIJES Y AROS ",
+    "precio": 4000,
+    "foto": "https://i.postimg.cc/2jZtjn9m/33b76758-90c1-4ae5-9c6e-d33b973281d0.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1785786791502,
+    "nombre": "COLITAS BEBE X 40 CARTERITAS",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/QtXMNXsY/11801ccc-ee66-4987-98b5-4983c5b562c9.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785786875344,
+    "nombre": "VINCHAS IRROMPIBLES ANCHAS ",
+    "precio": 1700,
+    "foto": "https://i.postimg.cc/Jn2WwmhJ/7af844b1-4f2b-4d34-96cd-e5863a188569.jpg",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785786953980,
+    "nombre": "VINCHAS IRROMPIBLES FINAS",
+    "precio": 900,
+    "foto": "https://i.postimg.cc/5ttxDsmD/958c1db6-44f2-4b4c-9c8f-d24dd48eb9ec.jpg",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785787014238,
+    "nombre": "AROS ACERO DORADO FIGURAS VARIAS ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/TYqfwzNP/aef279ed-3176-4dea-b7a7-fcf23e20a626.jpg",
+    "categoria": "AROS DE ACERO",
+    "suspendido": false
+  },
+  {
+    "id": 1785787240796,
+    "nombre": "VINCHA IRROMPIBLE CON DIENTES ",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/j5zkcb7f/3eff484e-8eca-4877-a27e-b978a527e08a.jpg",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785787348885,
+    "nombre": "BROCHES MARIPOSAS ACRILICO COLORES VARIOS",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/ncL0j70t/c49fb220-e78d-44ec-b5a5-63c5485f1220.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785787458279,
+    "nombre": "BROCHES CHICOS X 12 COLORES VARIOS",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/FHLb3xcJ/4423b195-f45a-457e-a813-26c5e9b6bcd5.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785787563822,
+    "nombre": "BROCHES MEDIANOS X 4 NEGROS ",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/Pxr83bL6/acfa36d0-7f31-4b6b-9124-cba4c2fa1607.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785787694829,
+    "nombre": "BROCHES MEDIANOS FLOR NEGROS ",
+    "precio": 900,
+    "foto": "https://i.postimg.cc/sfMJ3yX7/20480384-66ef-4fb3-bd74-b887213ea2d0.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785787784027,
+    "nombre": "SCUNZI X 2 CON DIJES CORAZON ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/QtHcNkX3/234132aa-07fc-43ee-983c-e07d8353c08b.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785787978364,
+    "nombre": "COLLAR ACERO PLATEADO CON DIJES VARIOS ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/C597prDP/3e5a8e5e-78e8-4397-b5cb-b0d58427d9c6.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1785788057045,
+    "nombre": "PULSERAS PLATEADAS CON DIJES COLORES ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/C548mv7D/9aaa9bdd-a2b6-4e46-8d7c-dbe44fbc5a40.jpg",
+    "categoria": "PULSERAS FANTASIA",
+    "suspendido": false
+  },
+  {
+    "id": 1785788173971,
+    "nombre": "PULSERA PLATEADAS CON PIEDRAS DE COLORES ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/tCMJpQs9/c786b973-abb7-4906-923e-031cf30e2410.jpg",
+    "categoria": "PULSERAS FANTASIA",
+    "suspendido": false
+  },
+  {
+    "id": 1785788256219,
+    "nombre": "CADENAS DORADAS CON DIJES VARIOS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/yxN6CvBy/ca83e914-e3ea-4d45-bc3c-3f169eec23d7.jpg",
+    "categoria": "ACCESORIOS DE MUJER",
+    "suspendido": false
+  },
+  {
+    "id": 1785788306437,
+    "nombre": "BROCHES METAL GRANDE DORADOS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/tJ7bMJtr/453311ce-bfd7-402c-bca6-303d5b20889e.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785788549044,
+    "nombre": "CARTERITAS INFANTILES CON ACCESORIOS VARIOS ",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/Hk3gdbZ2/6f788ec3-c6a6-496a-83a6-4a8387a0971b.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785788688178,
+    "nombre": "PINZA Y HEBILLAS X 3 PARIS",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/KYds2z2d/e9565259-e638-4683-91f9-b4e270971f82.jpg",
+    "categoria": "HEBILLAS TICTAC BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1785788747474,
+    "nombre": "PINZA Y HEBILLAS X 3 HELLO",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/m28XrV4g/07b83c4c-6c2b-48eb-ac90-2e593065d101.jpg",
+    "categoria": "HEBILLAS TICTAC BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1785788919891,
+    "nombre": "SCUNZI TELA GRANDES A LUNARES ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/tJr39Sxc/9d7929bd-eb4a-4368-b250-6cb575824d75.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785788971745,
+    "nombre": "VINCHAS PELUCHES ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/BbwKr8WH/17750126-5056-48bc-8129-591bdeb3d7db.jpg",
+    "categoria": "VINCHAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785789056873,
+    "nombre": "BROCHES X 6 X 10 BEBE",
+    "precio": 6000,
+    "foto": "https://i.postimg.cc/rFBd52qV/c0895582-8db9-40cc-b367-ab52a0697eaf.jpg",
+    "categoria": "BROCHES",
+    "suspendido": false
+  },
+  {
+    "id": 1785789175210,
+    "nombre": "TIC TAC METAL MULTICOLOR X 10",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/6pVQR7Hf/7164e07a-8aa9-40e7-afd8-4fae992cfbc5.jpg",
+    "categoria": "HEBILLAS TICTAC BLISTER",
+    "suspendido": false
+  },
+  {
+    "id": 1785789259338,
+    "nombre": "COLITAS CON MOÑO GRANDE ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/7ZN24QyP/23e06848-f402-411f-9323-d395135238dd.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785789315399,
+    "nombre": "SCUNZI GRANDE DE TELA CON DETALLES ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/GhFBPStY/8775c406-660b-4fbd-b84e-7c8d3bd5c74d.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785789372785,
+    "nombre": "LIMAS DE METAL ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/HnQL2VYp/fc465b4a-40c1-497e-8258-5664f5814cc3.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1785789501859,
+    "nombre": "PEINE GRUESO CON MAGO COLOR CAREY ",
+    "precio": 1900,
+    "foto": "https://i.postimg.cc/nVYZ38KJ/c256eb65-15a9-4f6d-936a-c873b0f07f6d.jpg",
+    "categoria": "BELLEZA ",
+    "suspendido": false
+  },
+  {
+    "id": 1785789563561,
+    "nombre": "PEINE COLERO COLOR CAREY",
+    "precio": 950,
+    "foto": "https://i.postimg.cc/C1pT4JzT/f4dae541-8e52-4f11-901b-c0ae6d0fdda2.jpg",
+    "categoria": "BELLEZA ",
     "suspendido": false
   }
 ]

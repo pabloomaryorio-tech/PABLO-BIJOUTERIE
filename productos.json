@@ -1966,5 +1966,21 @@
     "foto": "https://i.postimg.cc/C1pT4JzT/f4dae541-8e52-4f11-901b-c0ae6d0fdda2.jpg",
     "categoria": "BELLEZA ",
     "suspendido": false
+  },
+  {
+    "id": 1785790371437,
+    "nombre": "BILLETERA DE HOMBRE ONE SAEZ",
+    "precio": 13000,
+    "foto": "https://i.postimg.cc/Vv1J2jHN/826c9462-f0fb-40d4-8a17-33bfb3c092cb.jpg",
+    "categoria": "BILLETERAS HOMBRE ",
+    "suspendido": false
+  },
+  {
+    "id": 1785790520563,
+    "nombre": "COLITAS X 2 X 10 CORAZON ACRILICO",
+    "precio": 15000,
+    "foto": "https://i.postimg.cc/YSYqkvFv/48e4c284-3339-428e-96bb-5f93d828557d.jpg",
+    "categoria": "COLITAS",
+    "suspendido": false
   }
 ]

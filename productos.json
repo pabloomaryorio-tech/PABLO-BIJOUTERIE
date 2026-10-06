@@ -66,7 +66,7 @@
   {
     "id": 1773234501192,
     "nombre": "GORRAS BORDADA ",
-    "precio": 8000,
+    "precio": 9000,
     "foto": "https://i.postimg.cc/GpJCK9fL/unnamed-(26).jpg",
     "categoria": "GORRAS",
     "suspendido": false
@@ -74,7 +74,7 @@
   {
     "id": 1773234523904,
     "nombre": "GORRAS BORDADAS ",
-    "precio": 8000,
+    "precio": 9000,
     "foto": "https://i.postimg.cc/SsSpvk05/unnamed-(25).jpg",
     "categoria": "GORRAS",
     "suspendido": false
@@ -82,7 +82,7 @@
   {
     "id": 1773234546896,
     "nombre": "GORRAS BORDADAS ",
-    "precio": 8000,
+    "precio": 9000,
     "foto": "https://i.postimg.cc/8knVt2Zq/unnamed-(24).jpg",
     "categoria": "GORRAS",
     "suspendido": false
@@ -90,7 +90,7 @@
   {
     "id": 1773234575208,
     "nombre": "GORRAS LISAS ",
-    "precio": 7500,
+    "precio": 8000,
     "foto": "https://i.postimg.cc/ydQ2pRX2/unnamed-(23).jpg",
     "categoria": "GORRAS",
     "suspendido": false
@@ -165,7 +165,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/nrvFyTRP/unnamed-(7).jpg",
     "categoria": "BROCHES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773236183874,
@@ -208,14 +208,6 @@
     "suspendido": false
   },
   {
-    "id": 1773240284982,
-    "nombre": "COLITAS CORAZON CAPYBARA X 3 ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/Sxg7wbv1/Gemini-Generated-Image-qj6oczqj6oczqj6o.png",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
     "id": 1773240887167,
     "nombre": "PEGAMENTO PARA UÑA X 5 ",
     "precio": 2500,
@@ -234,10 +226,10 @@
   {
     "id": 1773241016310,
     "nombre": "CORRECTOR DE OJERAS DOBLE LABIAL Y LIQUIDO ",
-    "precio": 4500,
+    "precio": 5000,
     "foto": "https://i.postimg.cc/qB5nG7yr/labial.png",
     "categoria": "MAQUILLAJES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1773241042846,
@@ -370,7 +362,7 @@
   {
     "id": 1773251149445,
     "nombre": "GORRAS BORDADAS ",
-    "precio": 8000,
+    "precio": 9000,
     "foto": "https://i.postimg.cc/QdvBHcfr/Gemini-Generated-Image-jw515rjw515rjw51.png",
     "categoria": "GORRAS",
     "suspendido": false
@@ -560,14 +552,6 @@
     "suspendido": false
   },
   {
-    "id": 1773255871275,
-    "nombre": "BROCHES MINI X 10 NEGRO/CAREY",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/MZV3p8md/brochex10-mini.png",
-    "categoria": "BROCHES",
-    "suspendido": true
-  },
-  {
     "id": 1773255906746,
     "nombre": "BROCHES PLASTICO COLOR X 6 ",
     "precio": 1650,
@@ -645,7 +629,7 @@
     "precio": 1900,
     "foto": "https://i.postimg.cc/Hkw7rBhg/BCO-26bc8ed0-e263-43b9-9c7b-2ceea08d9033.png",
     "categoria": "COLITAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773257203084,
@@ -1416,30 +1400,6 @@
     "suspendido": false
   },
   {
-    "id": 1779809618466,
-    "nombre": "SET DE COLITAS + BROCHE",
-    "precio": 1750,
-    "foto": "https://i.postimg.cc/Kc5MRKkM/b60b9f15-2168-40ca-bf6e-ee3c3ebbf628.jpg",
-    "categoria": "COLITAS",
-    "suspendido": false
-  },
-  {
-    "id": 1779809655080,
-    "nombre": " BROCHES MINI X 10 COLOR ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/wTTsJ6D6/b4aedfcc-2f3c-46e3-9c07-44878012dad6.jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
-    "id": 1779809706300,
-    "nombre": "SET DE BROCHE X 3 ",
-    "precio": 2000,
-    "foto": "https://i.postimg.cc/YCvGnbXs/d6a86976-877e-4312-b7dc-d17442465c52.jpg",
-    "categoria": "BROCHES",
-    "suspendido": false
-  },
-  {
     "id": 1779809749994,
     "nombre": "BILLETERA MUJER DOBLE CIERRE MEDIANA LISA",
     "precio": 13000,
@@ -1717,7 +1677,7 @@
     "precio": 7200,
     "foto": "https://i.postimg.cc/L8TFN5yq/4bb0577c-65e5-4138-a605-cf6bef089b31.jpg",
     "categoria": "PERFUMES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782504489644,
@@ -1725,7 +1685,7 @@
     "precio": 7200,
     "foto": "https://i.postimg.cc/7Lt8rcrJ/8381d40a-5930-4522-af60-d7f48706ecf4.jpg",
     "categoria": "PERFUMES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1785786317495,
@@ -1789,14 +1749,6 @@
     "precio": 1300,
     "foto": "https://i.postimg.cc/j5zkcb7f/3eff484e-8eca-4877-a27e-b978a527e08a.jpg",
     "categoria": "VINCHAS",
-    "suspendido": false
-  },
-  {
-    "id": 1785787348885,
-    "nombre": "BROCHES MARIPOSAS ACRILICO COLORES VARIOS",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/ncL0j70t/c49fb220-e78d-44ec-b5a5-63c5485f1220.jpg",
-    "categoria": "BROCHES",
     "suspendido": false
   },
   {
@@ -1925,14 +1877,6 @@
     "precio": 1500,
     "foto": "https://i.postimg.cc/6pVQR7Hf/7164e07a-8aa9-40e7-afd8-4fae992cfbc5.jpg",
     "categoria": "HEBILLAS TICTAC BLISTER",
-    "suspendido": false
-  },
-  {
-    "id": 1785789259338,
-    "nombre": "COLITAS CON MOÑO GRANDE ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/7ZN24QyP/23e06848-f402-411f-9323-d395135238dd.jpg",
-    "categoria": "COLITAS",
     "suspendido": false
   },
   {
